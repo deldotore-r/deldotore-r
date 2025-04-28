@@ -49,7 +49,7 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
 </div> -->
 <br>
 
-## 📫 Como me encontrar
+## Como me encontrar
 
 <div align="center">
   
