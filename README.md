@@ -2,35 +2,40 @@
   <img src="assets/Banner.png" alt="Meu banner" width="500">
 </p>
 
-## 👨‍💻 Quem sou eu
+## Quem sou eu
 
 Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. Adoro resolver problemas complexos e transformar ideias em soluções reais. Estou sempre em busca de desafios que me permitam aprender e crescer profissionalmente.
+<br><br>
 
-Este repositório irá abrigar meus projetos, sempre que eu julgue que sejam sólidos e interessantes o suficiente.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldotore-r&show_icons=true&theme=outrun) 
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deldotore-r&layout=compact&langs_count=7&theme=tokyonight"/>
+<br><br>
 
-## 🚀 Habilidades
 
-```python
-minhas_habilidades = {
-    "linguagens": ["Python"],
-    "ferramentas": ["Git", "VS Code"],
-    "plataformas": ["Supabase"],
-    "automacao": ["n8n"],
-    "containerizacao": ["Docker"],
-    "areas": ["Machine Learning", "Análise de Dados", "Deep Learning", "Automação de Processos"]
-}
-````
-## 🌱 Atualmente estou...
 
-- 📚 Aprendendo sobre Inteligência Artificial, especialmente Machine Learning.
-- 🛠️ Trabalhando em projetos pessoais para ampliar meu portfólio.
 
-<!-- ## 📊 Estatísticas
+## Tecnologias que uso
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deldotore-r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deldotore-r&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<div>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=whitee" />
+  <img align="center" alt="SQL server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img align="center" alt="SQL server" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
+  
+  
+</div><br/>
+
+
+## Atualmente estou...
+
+- Aprendendo sobre Inteligência Artificial, especialmente Machine Learning.
+  
+- Trabalhando em projetos pessoais para ampliar meu portfólio, e em um projeto comercial de automação na área da saúde.
+  </div>
+
+
 
 <!-- ## 🔍 Projetos em Destaque 
 
@@ -42,6 +47,7 @@ minhas_habilidades = {
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=projeto2&theme=tokyonight" />
   </a>
 </div> -->
+<br>
 
 ## 📫 Como me encontrar
 
@@ -68,6 +74,6 @@ minhas_habilidades = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=deldotore-r&color=brightgreen" alt="Profile views" />
 <br>
-  <p>"O código é como humor. Quando você tem que explicar, é ruim." – Cory House</p>
+  <p>"Uma coisa é uma coisa, e outra coisa é outra coisa. E vice-versa. (Exceto as exceções)</p>
 </div>
 
