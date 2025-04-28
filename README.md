@@ -8,8 +8,8 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldotore-r&show_icons=true&theme=outrun) 
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deldotore-r&layout=compact&langs_count=7&theme=tokyonight"/>
-<br><br>
+<!-- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deldotore-r&layout=compact&langs_count=7&theme=tokyonight"/>
+<br><br> -->
 
 
 
