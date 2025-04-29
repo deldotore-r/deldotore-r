@@ -21,9 +21,11 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
   <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-210e8e?style=for-the-badge&logo=markdown&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=whitee" />
-  <img align="center" alt="SQL server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img align="center" alt="SQL server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img align="center" alt="Supabase" src="https://img.shields.io/badge/Supabase-3cad15?style=for-the-badge&logo=supabase&logoColor=white" />
   <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-1abc9c?style=for-the-badge&logo=n8n&logoColor=white" />
+
 
   
   
