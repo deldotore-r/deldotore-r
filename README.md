@@ -27,6 +27,7 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
   <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-1abc9c?style=for-the-badge&logo=n8n&logoColor=white" />
 
 
+
   
   
 </div><br/>
@@ -34,9 +35,21 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
 
 ## Atualmente estou...
 
-- Aprendendo sobre Inteligência Artificial, especialmente Machine Learning.
-  
-- Trabalhando em projetos pessoais para ampliar meu portfólio, e em um projeto comercial de automação na área da saúde.
+Aprendendo sobre Inteligência Artificial, especialmente Machine Learning. <br>
+Trabalhando em projetos pessoais para ampliar meu portfólio, e em um projeto comercial de automação na área da saúde.
+  </div>
+
+  </div><br/>
+
+
+## Estou cursando atualmente:
+
+1. Hashtag Treinamentos: Inteligência Artificial.
+2. Data Science Academy Brasil: Formação Inteligência Artificial Para Medicina.
+3. Asimov Academy: Python para IA - Do Zero Ao Primeiro Chatbot.
+4. Escola de Inteligência Artificial: Formação Completa Inteligência Artificial e Machine Learning.
+5. Cursa (Universo Discreto): Redes Neurais e Deep Learning com Python.
+
   </div>
 
 
@@ -55,11 +68,9 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
 
 ## Como me encontrar
 
-<div align="center">
+<div align="left">
   
-  <a href="https://linkedin.com/in/reinaldo-del-dotore" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  <a href="mailto:deldotore@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/reinaldo-del-dotore" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="mailto:deldotore@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--<a href="https://twitter.com/seu-twitter" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://seu-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a> -->
 </div>
