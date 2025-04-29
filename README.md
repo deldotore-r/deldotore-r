@@ -4,7 +4,7 @@
 
 ## Quem sou eu
 
-Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. Adoro resolver problemas complexos e transformar ideias em soluções reais. Estou sempre em busca de desafios que me permitam aprender e crescer profissionalmente.
+Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. Adoro resolver problemas complexos e transformar ideias em soluções reais. Estou sempre em busca de desafios que me permitam aprender e crescer profissionalmente. Sou reformado (aposentado), vivo em outro país (Portugal), e tenho todo o tempo livre para estudo e trabalho remotos.
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldotore-r&show_icons=true&theme=outrun) 
@@ -35,8 +35,9 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
 
 ## Atualmente estou...
 
-Aprendendo sobre Inteligência Artificial, especialmente Machine Learning. <br>
-Trabalhando em projetos pessoais para ampliar meu portfólio, e em um projeto comercial de automação na área da saúde.
+1. Aprendendo sobre Inteligência Artificial, especialmente Machine Learning. <br>
+2. Trabalhando em projetos pessoais para ampliar meu portfólio. <br>
+3. Trabalhando em um projeto comercial de automação na área da saúde.
   </div>
 
   </div><br/>
@@ -88,6 +89,7 @@ Trabalhando em projetos pessoais para ampliar meu portfólio, e em um projeto co
 <br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=deldotore-r&color=brightgreen" alt="Profile views" />
+<br>
 <br>
   <p>"Uma coisa é uma coisa, e outra coisa é outra coisa. E vice-versa. (Exceto as exceções)</p>
 </div>
