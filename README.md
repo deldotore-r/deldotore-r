@@ -91,6 +91,6 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
   <img src="https://komarev.com/ghpvc/?username=deldotore-r&color=brightgreen" alt="Profile views" />
 <br>
 <br>
-  <p>Uma coisa é uma coisa e outra coisa é outra coisa, e vice-versa. (Exceto as exceções)</p>
+  <p>Uma coisa é uma coisa e outra coisa é outra coisa, e vice-versa. (Exceto as exceções.)</p>
 </div>
 
