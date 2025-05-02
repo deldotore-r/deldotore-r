@@ -60,6 +60,10 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
   <img src="assets/transferir.png" alt="Hashtag Treinamentos" width="20" height="20";">
   <span style="margin-left: 5px;">Curso de Inteligência Artificial da Hashtag Treinamentos</span>
 </p>
+<p style="display: flex; align-items: center; margin: 0; line-height: 20px;">
+  <img src="assets/DSA.png" alt="DSA" width="20" height="20";">
+  <span style="margin-left: 5px;"> Formação Inteligência Artificial para Medicina da Data Science Academy</span>
+</p>
 
   </div>
 
