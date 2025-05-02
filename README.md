@@ -57,7 +57,7 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
 6. Google: Curso Intensivo de Machine Learning.
 
 <p style="display: flex; align-items: center; margin: 0; line-height: 20px;">
-  <img src="assets/transferir.png" alt="Hashtag Treinamentos" width="20" height="20" style="margin-top: -2px;">
+  <img src="assets/transferir.png" alt="Hashtag Treinamentos" width="20" height="20";">
   <span style="margin-left: 5px;">Curso de Inteligência Artificial da Hashtag Treinamentos</span>
 </p>
 
