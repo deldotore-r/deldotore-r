@@ -64,6 +64,11 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
   <img src="assets/DSA.png" alt="DSA" width="20" height="20";">
   <span style="margin-left: 5px;"> Formação Inteligência Artificial para Medicina da Data Science Academy</span>
 </p>
+<p style="display: flex; align-items: center; margin: 0; line-height: 20px;">
+  <img src="assets/Asimov.png" alt="Asimov" width="20" height="20";">
+  <span style="margin-left: 5px;"> Python Para IA da Asimov Academy</span>
+</p>
+
 
   </div>
 
