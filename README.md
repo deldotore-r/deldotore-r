@@ -50,6 +50,7 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
 3. Asimov Academy: Python para IA - Do Zero Ao Primeiro Chatbot.
 4. Escola de Inteligência Artificial: Formação Completa Inteligência Artificial e Machine Learning.
 5. Cursa (Universo Discreto): Redes Neurais e Deep Learning com Python.
+6. Google: Curso Intensivo de Machine Learning.
 
   </div>
 
