@@ -56,6 +56,11 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
 5. Cursa (Universo Discreto): Redes Neurais e Deep Learning com Python.
 6. Google: Curso Intensivo de Machine Learning.
 
+<p>
+  <img src="assets/transferir.png" alt="Hashtag Treinamentos" width="20" height="20" style="vertical-align: middle;"> 
+  Curso de Excel Avançado da Hashtag Treinamentos
+</p>
+
   </div>
 
 
