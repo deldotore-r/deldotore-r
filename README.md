@@ -10,7 +10,7 @@ Procuro resolver problemas efetivos e transformar ideias em soluções reais.
 
 Estou sempre em busca de desafios que me permitam aprender e crescer profissionalmente.
 
-Sou adepto e praticante do Long Life Learning - o aprendizado contínuo ao longo de toda a vida 
+Sou adepto e praticante do Long Life Learning - o aprendizado contínuo ao longo de toda a vida.
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldotore-r&show_icons=true&theme=outrun) 
