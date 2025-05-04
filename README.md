@@ -5,7 +5,11 @@
 ## Quem sou eu
 
 Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação – especialmente na área da Saúde (minha área profissional original).  
-Procuro resolver problemas efetivos e transformar ideias em soluções reais. Estou sempre em busca de desafios que me permitam aprender e crescer profissionalmente.  
+
+Procuro resolver problemas efetivos e transformar ideias em soluções reais.
+ 
+Estou sempre em busca de desafios que me permitam aprender e crescer profissionalmente.  
+
 Sou adepto e praticante do Long Life Learning – o aprendizado contínuo ao longo de toda a vida.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldotore-r&show_icons=true&theme=outrun)
