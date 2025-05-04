@@ -4,7 +4,7 @@
 
 ## Quem sou eu
 
-Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação.
+Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação - especialmente na área da Saúde (minha área profissional original).
 
 Procuro resolver problemas efetivos e transformar ideias em soluções reais. 
 
