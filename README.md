@@ -56,19 +56,6 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
 5. Cursa (Universo Discreto): Redes Neurais e Deep Learning com Python.
 6. Google: Curso Intensivo de Machine Learning.
 
-<p style="display: flex; align-items: center; margin: 0; line-height: 20px;">
-  <img src="assets/transferir.png" alt="Hashtag Treinamentos" width="20" height="20";">
-  <span style="margin-left: 5px;">Curso de Inteligência Artificial da Hashtag Treinamentos</span>
-</p>
-<p style="display: flex; align-items: center; margin: 0; line-height: 20px;">
-  <img src="assets/DSA.png" alt="DSA" width="20" height="20";">
-  <span style="margin-left: 5px;"> Formação Inteligência Artificial para Medicina da Data Science Academy</span>
-</p>
-<p style="display: flex; align-items: center; margin: 0; line-height: 20px;">
-  <img src="assets/Asimov.png" alt="Asimov" width="20" height="20";">
-  <span style="margin-left: 5px;"> Python Para IA da Asimov Academy</span>
-</p>
-
 
   </div>
 
@@ -110,6 +97,6 @@ Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. A
   <img src="https://komarev.com/ghpvc/?username=deldotore-r&color=brightgreen" alt="Profile views" />
 <br>
 <br>
-  <p>Uma coisa é uma coisa e outra coisa é outra coisa, e vice-versa. (Exceto as exceções.)</p>
+  <p>Na Era da IA, o Long Life Learning não é uma escolha: é a única opção.</p>
 </div>
 
