@@ -4,7 +4,11 @@
 
 ## Quem sou eu
 
-Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação. Adoro resolver problemas complexos e transformar ideias em soluções reais. Estou sempre em busca de desafios que me permitam aprender e crescer profissionalmente. Sou reformado (aposentado), vivo em outro país (Portugal), e tenho todo o tempo livre para estudo e trabalho remotos.
+Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação.
+
+Procuro resolver problemas efetivos e transformar ideias em soluções reais. 
+
+Estou sempre em busca de desafios que me permitam aprender e crescer profissionalmente.
 <br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldotore-r&show_icons=true&theme=outrun) 
