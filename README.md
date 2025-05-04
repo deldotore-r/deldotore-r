@@ -10,7 +10,7 @@ Procuro resolver problemas efetivos e transformar ideias em soluções reais.
  
 Estou sempre em busca de desafios que me permitam aprender e crescer profissionalmente.  
 
-Sou adepto e praticante do Long Life Learning – o aprendizado contínuo ao longo de toda a vida.
+Sou adepto e praticante do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldotore-r&show_icons=true&theme=outrun)
 
@@ -65,5 +65,5 @@ Sou adepto e praticante do Long Life Learning – o aprendizado contínuo ao lon
 </p>
 
 <p align="center">
-  Na Era da IA, o Long Life Learning não é uma escolha: é a única opção.
+  Na Era da IA, o Lifelong Learning não é uma escolha: é a única opção.
 </p>
