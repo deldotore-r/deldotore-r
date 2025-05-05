@@ -42,9 +42,7 @@ Sou adepto e praticante do Lifelong Learning – o aprendizado contínuo ao long
 
 ## Atualmente estou...
 
-<p align="left">
-  <img src="assets/digit.jpeg" alt="Atividades" width="200">
-</p>
+
 
 1. Aprendendo sobre Inteligência Artificial, especialmente Machine Learning;
 2. Trabalhando em projetos pessoais para ampliar meu portfólio;
@@ -52,9 +50,7 @@ Sou adepto e praticante do Lifelong Learning – o aprendizado contínuo ao long
 
 ## Estou cursando atualmente:
 
-<p align="left">
-  <img src="assets/ead.png" alt="Cursos" width="200">
-</p>
+
 
 1. **Hashtag Treinamentos:** Inteligência Artificial.
 2. **Data Science Academy Brasil:** Formação Inteligência Artificial Para Medicina.
