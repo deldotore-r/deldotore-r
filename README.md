@@ -11,13 +11,13 @@ Procuro resolver problemas efetivos e transformar ideias em soluções reais.
 Sou adepto e praticante do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
 <br>
 <br>
-<table>
-  <tr>
-    <td width="33%"><img src="https://github-readme-stats.vercel.app/api?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&count_private=false" alt="deldotore-r's Stats"></td>
-    <td width="33%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deldotore-r&theme=outrun&hide_border=false" alt="deldotore-r's Streak"></td>
-    <td width="33%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="deldotore-r's Top Languages"></td>
-  </tr>
-</table>
+
+<img src="https://github-readme-stats.vercel.app/api?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&count_private=false" alt="deldotore-r's Stats" width="400">
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deldotore-r&theme=outrun&hide_border=false" alt="deldotore-r's Streak" width="400">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="deldotore-r's Top Languages" width="400">
+
 <br>
 
 ## Tecnologias que uso
