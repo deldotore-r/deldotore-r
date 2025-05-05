@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/lifelong.png" alt="Meu banner" width="500">
+  <img src="assets/lifelong.png" alt="Meu banner" width="300">
 </p>
 
 ## Quem sou eu
