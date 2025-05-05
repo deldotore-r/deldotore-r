@@ -43,7 +43,7 @@ Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
 
 
 
-1. Aprendendo sobre Inteligência Artificial, especialmente Machine Learning;
+1. Aprendendo sobre Inteligência Artificial, especialmente Deep Learning;
 2. Trabalhando em projetos pessoais para ampliar meu portfólio;
 3. Atuando em um projeto comercial de automação na área da saúde.
 
