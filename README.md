@@ -7,12 +7,18 @@
 Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação – especialmente na área da Saúde (minha área profissional original).  
 
 Procuro resolver problemas efetivos e transformar ideias em soluções reais.
- 
-Estou sempre em busca de desafios que me permitam aprender e crescer profissionalmente.  
 
 Sou adepto e praticante do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deldotore-r&show_icons=true&theme=outrun)
+<br>
+<br>
+<table>
+  <tr>
+    <td width="33%"><img src="https://github-readme-stats.vercel.app/api?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&count_private=false" alt="deldotore-r's Stats"></td>
+    <td width="33%"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deldotore-r&theme=outrun&hide_border=false" alt="deldotore-r's Streak"></td>
+    <td width="33%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="deldotore-r's Top Languages"></td>
+  </tr>
+</table>
+<br>
 
 ## Tecnologias que uso
 
