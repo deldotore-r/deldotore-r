@@ -58,6 +58,9 @@ Sou adepto e praticante do Lifelong Learning – o aprendizado contínuo ao long
   <a href="mailto:deldotore@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://medium.com/@deldotore" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-3d23d1?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
