@@ -48,6 +48,10 @@ Sou adepto e praticante do Lifelong Learning – o aprendizado contínuo ao long
 
 ## Estou cursando atualmente:
 
+<p align="left">
+  <img src="assets/ead.jpg" alt="Cursos" width="200">
+</p>
+
 1. **Hashtag Treinamentos:** Inteligência Artificial.
 2. **Data Science Academy Brasil:** Formação Inteligência Artificial Para Medicina.
 3. **Asimov Academy:** Python para IA - Do Zero Ao Primeiro Chatbot.
