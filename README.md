@@ -4,11 +4,11 @@
 
 ## Quem sou eu
 
-Sou um desenvolvedor em aprendizado, entusiasmado com tecnologia e inovação – especialmente na área da Saúde (minha área profissional original).  
+Interessado em tecnologia e inovação – especialmente na área da Saúde (minha área profissional original).  
 
 Procuro resolver problemas efetivos e transformar ideias em soluções reais.
 
-Sou adepto e praticante do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
+Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
 <br>
 <br>
 
