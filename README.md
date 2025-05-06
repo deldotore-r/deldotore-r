@@ -34,6 +34,8 @@ Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
   <img alt="n8n" src="https://img.shields.io/badge/n8n-1abc9c?style=for-the-badge&logo=n8n&logoColor=white" />
   <br>
   <!-- Segunda linha de badges -->
+
+  <img alt="Deep Learning" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img alt="Transformers" src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
