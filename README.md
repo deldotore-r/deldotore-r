@@ -2,6 +2,9 @@
   <img src="assets/lifelong.png" alt="Meu banner" width="300">
 </p>
 
+<br>
+
+
 ## Quem sou eu
 
 Interessado em tecnologia e inovação – especialmente na área da Saúde (minha área profissional original).  
