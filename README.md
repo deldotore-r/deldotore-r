@@ -19,6 +19,7 @@ Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="deldotore-r's Top Languages" width="450">
 
 <br>
+<br>
 
 ## Tecnologias que uso
 
@@ -39,17 +40,19 @@ Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
   <img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-purple?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
+<br>
+<br>
+
 ## Atualmente estou...
-
-
 
 1. Aprendendo sobre Inteligência Artificial, especialmente Deep Learning;
 2. Trabalhando em projetos pessoais para ampliar meu portfólio;
 3. Atuando em um projeto comercial de automação na área da saúde.
 
+<br>
+<br>
+
 ## Estou cursando atualmente:
-
-
 
 1. **Hashtag Treinamentos:** Inteligência Artificial.
 2. **Data Science Academy Brasil:** Formação Inteligência Artificial Para Medicina.
@@ -57,6 +60,28 @@ Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
 4. **Escola de Inteligência Artificial:** Formação Completa em Inteligência Artificial e Machine Learning.
 5. **Cursa (Universo Discreto):** Redes Neurais e Deep Learning com Python.
 6. **Google:** Curso Intensivo de Machine Learning.
+
+<br>
+<br>
+
+## Projetos Destacados
+
+### 🔍 Detector de Imagens Adulteradas (Lei de Benford).
+
+Desenvolvi um algoritmo simples em Python, que analisa imagens digitais aplicando a Lei de Benford para determinar a probabilidade de uma imagem ser natural ou ter sido adulterada digitalmente (ou criada por IA).
+
+<p align="left">
+  <img src="assets/benford_N.png" alt="Gráfico: imagem não natural" width="300">
+</p>
+
+**[Ver repositório completo.](https://https://github.com/deldotore-r/benford_01)**
+
+A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequência do primeiro dígito segue uma distribuição logarítmica. O código verifica se os pixels de uma imagem seguem esta distribuição, identificando possíveis manipulações.
+
+**Tecnologias:** Python, OpenCV, NumPy, Matplotlib
+
+<br>
+<br>
 
 ## Como me encontrar
 
