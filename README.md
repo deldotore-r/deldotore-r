@@ -23,7 +23,7 @@ Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
 
 ## Tecnologias que uso
 
-<p align="center">
+<p align="left">
   <!-- Primeira linha de badges -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-210e8e?style=for-the-badge&logo=markdown&logoColor=white" />
