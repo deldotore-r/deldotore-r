@@ -90,13 +90,15 @@ A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequê
 
 ## Como me encontrar
 
-<p align="left">
-  <a href="https://linkedin.com/in/reinaldo-del-dotore" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a><!--
---><a href="mailto:deldotore@gmail.com"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a><!--
---><a href="https://medium.com/@deldotore" target="_blank"><img src="https://img.shields.io/badge/Medium-3d23d1?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-</p>
+<div align="left">
 
+  <a href="https://linkedin.com/in/reinaldo-del-dotore"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&#8202;
+  <a href="mailto:deldotore@gmail.com"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&#8202;
+  <a href="https://medium.com/@deldotore"><img src="https://img.shields.io/badge/Medium-3d23d1?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&#8202;
+  <a href="https://deldotore.substack.com/"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack"/></a>
 
+</div>
+<br>
 
 <p align="center">
   Na Era da IA, o Lifelong Learning não é uma escolha: é a única opção.
