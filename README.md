@@ -71,7 +71,7 @@ Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
 
 ## Projetos Destacados
 
-### 🔍 Detector de Imagens Adulteradas (Lei de Benford).
+### Detector de Imagens Adulteradas (Lei de Benford).
 
 Desenvolvi um algoritmo simples em Python, que analisa imagens digitais aplicando a Lei de Benford para determinar a probabilidade de uma imagem ser natural ou ter sido adulterada digitalmente (ou criada por IA).
 
@@ -82,6 +82,15 @@ Desenvolvi um algoritmo simples em Python, que analisa imagens digitais aplicand
 **[Ver código completo.](https://https://github.com/deldotore-r/benford_01)**
 
 A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequência do primeiro dígito segue uma distribuição logarítmica. O código verifica se os pixels de uma imagem seguem esta distribuição, identificando possíveis manipulações.
+
+### Modelos Transformers: a importância da Máscara de Atenção.
+
+Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo que permite aos modelos de IA como GPT processar informação de forma eficiente e gerar texto coerente. 
+
+Em breve, o projeto será compartilhado aqui. O [artigo] (As máscaras de atenção em transformers: funções e funcionamento
+https://www.linkedin.com/pulse/m%C3%A1scaras-de-aten%C3%A7%C3%A3o-em-transformers-fun%C3%A7%C3%B5es-e-reinaldo-del-dotore-wka0f?utm_source=share&utm_medium=member_android&utm_campaign=share_via) está no LinkedIn.
+
+<br>
 
 **Tecnologias:** Python, OpenCV, NumPy, Matplotlib
 
