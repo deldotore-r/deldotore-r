@@ -83,7 +83,13 @@ Desenvolvi um algoritmo simples em Python, que analisa imagens digitais aplicand
 
 A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequência do primeiro dígito segue uma distribuição logarítmica. O código verifica se os pixels de uma imagem seguem esta distribuição, identificando possíveis manipulações.
 
+<br>
+
 ### Modelos Transformers: a importância da Máscara de Atenção.
+
+<p align="left">
+  <img src="assets/mascaras_de_atencao_esquema.png" alt="Esquema - máscara de atenção" width="400">
+</p>
 
 Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo que permite aos modelos de IA como GPT processar informação de forma eficiente e gerar texto coerente. 
 
