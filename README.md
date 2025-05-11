@@ -9,7 +9,7 @@
 
 Interessado em tecnologia e inovação – especialmente na área da Saúde (minha área profissional original).  
 
-Procuro resolver problemas efetivos e transformar ideias em soluções reais.
+Procuro pensar em soluções para problemas efetivos e transformar ideias em soluções reais.
 
 Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
 <br>
