@@ -61,7 +61,7 @@ Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
 
 1. **Hashtag Treinamentos:** Inteligência Artificial.
 2. **Data Science Academy Brasil:** Formação Inteligência Artificial Para Medicina.
-3. **Asimov Academy:** Python para IA - Do Zero Ao Primeiro Chatbot.
+3. **Asimov Academy:** Python para IA.
 4. **Escola de Inteligência Artificial:** Formação Completa em Inteligência Artificial e Machine Learning.
 5. **Cursa (Universo Discreto):** Redes Neurais e Deep Learning com Python.
 6. **Google:** Curso Intensivo de Machine Learning.
