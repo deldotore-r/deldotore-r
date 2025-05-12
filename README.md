@@ -95,6 +95,7 @@ Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo 
 
 Em breve, o projeto será compartilhado aqui. O [artigo](https://www.linkedin.com/pulse/m%C3%A1scaras-de-aten%C3%A7%C3%A3o-em-transformers-fun%C3%A7%C3%B5es-e-reinaldo-del-dotore-wka0f) está no LinkedIn.
 <br>
+<br>
 
 ### Seleção de hiperparâmetros em Machine Learning.
 
