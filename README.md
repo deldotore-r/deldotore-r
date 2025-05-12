@@ -18,7 +18,7 @@ Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
 <img src="https://github-readme-stats.vercel.app/api?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&count_private=false" alt="deldotore-r's Stats" width="450">
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=deldotore-r&theme=outrun" alt="deldotore-r's Streak" width="450">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deldotore-r&theme=outrun" alt="deldotore-r's Streak" width="450">
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="deldotore-r's Top Languages" width="450">
