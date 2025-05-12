@@ -96,10 +96,10 @@ Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo 
 Em breve, o projeto será compartilhado aqui. O [artigo](https://www.linkedin.com/pulse/m%C3%A1scaras-de-aten%C3%A7%C3%A3o-em-transformers-fun%C3%A7%C3%B5es-e-reinaldo-del-dotore-wka0f) está no LinkedIn.
 <br>
 
-### Seleção de hiperparâmetros em MAchine Learning.
+### Seleção de hiperparâmetros em Machine Learning.
 
 <p align="left">
-  <img src="assets/mascaras_de_atencao_esquema.png" alt="Esquema - máscara de atenção" width="400">
+  <img src="assets/grid-random.png" alt="Técnicas de seleção de hiperparâmetros" width="400">
 </p>
 
 Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo que permite aos modelos de IA (como o GPT) processarem informações de forma eficiente e gerar texto coerente. 
