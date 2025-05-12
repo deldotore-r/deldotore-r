@@ -69,7 +69,7 @@ Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
 <br>
 <br>
 
-## Projetos Destacados
+## Projetos e Artigos Destacados
 
 ### Detector de Imagens Adulteradas (Lei de Benford).
 
