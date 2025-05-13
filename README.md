@@ -15,12 +15,21 @@ Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
 
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&count_private=false" alt="deldotore-r's Stats" width="600">
+
+![deldotore-r's Stats](https://github-readme-stats.vercel.app/api?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&count_private=false)
+
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="deldotore-r's Top Languages" width="600">
+
+![Streak](https://streak-stats.demolab.com?user=deldotore-r&theme=outrun)
+
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deldotore-r&theme=outrun&area=true&line=23FF00FF&point=2300FFFF&bg_color=transparent&hide_title=false&custom_title=Atividade%20no%20GitHub%20%E2%9C%A8%F0%9F%9A%80" 
-  alt="deldotore-r's Activity Graph" width="800">
+
+![deldotore-r's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&layout=compact)
+
+<br>
+
+![deldotore-r's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deldotore-r&theme=outrun&area=true&line=23FF00FF&point=2300FFFF&bg_color=transparent&hide_title=false&custom_title=Atividade%20no%20GitHub%20%E2%9C%A8%F0%9F%9A%80)
+
 <br>
 <br>
 
