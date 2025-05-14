@@ -6,6 +6,8 @@
 
 ## 1. Quem sou eu:
 
+<br>
+
 🔹 Visão Geral: Militar aposentado migrando para IA aplicada à Saúde.
 
 🔹 Objetivos: Resolver problemas reais de saúde com soluções de IA seguras, éticas e escaláveis.
@@ -28,6 +30,8 @@
 <br>
 
 ## 3. Tecnologias e ferramentas: 
+
+<br>
 
 <p align="left">
   <!-- Primeira linha de badges -->
@@ -53,7 +57,9 @@
 
 ## 4. Projetos de estudo:
 
-1. 🚀 Detector de Imagens Adulteradas (Lei de Benford): repositório no Github.<br>
+<br>
+
+4.1. 🚀 Detector de Imagens Adulteradas (Lei de Benford): repositório no Github.<br>
 <p align="left">
   <img src="assets/benford_N.png" alt="Gráfico: imagem não natural" width="500">
 </p>
@@ -67,9 +73,9 @@ A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequê
   <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
 </p>
 <br>
+<br>
 
-
-2. 📖 Modelos Transformers - Máscaras de Atenção: artigo no LinkedIn.<br>
+4.2. 📖 Modelos Transformers - Máscaras de Atenção: artigo no LinkedIn.<br>
 <p align="left">
   <img src="assets/mascaras_de_atencao_esquema.png" alt="Esquema - máscara de atenção" width="500">
 </p>
@@ -82,10 +88,10 @@ Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo 
 <p align="left">
   <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
 </p>
+<br>
+<br>
 
-
-
-3. 📖 Seleção de Hiperparâmetros em ML: artigo no LinkedIn.<br>
+4.3. 📖 Seleção de Hiperparâmetros em ML: artigo no LinkedIn.<br>
 <p align="left">
   <img src="assets/grid-random.jpg" alt="Técnicas de seleção de hiperparâmetros" width="500">
 </p>
@@ -98,8 +104,9 @@ Nesse artigo, discuto três técnicas de seleção de hiperparâmetros para Mach
 <p align="left">
   <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
 </p>
-
-4. 📖 Transfer Learning em CNNs: artigo no LinkedIn.<br>
+<br>
+<br>
+4.4. 📖 Transfer Learning em CNNs: artigo no LinkedIn.<br>
 
 <p align="left">
   <img src="assets/transfer.png" alt="Técnicas de seleção de hiperparâmetros" width="500">
@@ -110,6 +117,26 @@ No artigo, discuto como o Transfer Learning está revolucionando a forma como s�
 [Aqui, o artigo no LinkedIn.](https://www.linkedin.com/pulse/transfer-learning-em-cnns-aproveitando-o-poder-de-reinaldo-del-dotore-qv2tf/?trackingId=WDTsbewD8YHqC522mNp85w%3D%3D) 
 <br>
 <br>
+<br>
+
+## 5. Projetos de trabalho:
+
+<br>
+
+5.1. 🤖 Automação na Área da Saúde.<br>
+
+-  Cliente: 🤐<br>
+-  Ferramentas: n8n, Python, Supabase.<br>
+-  Escopo: detecção em tempo real de inconsistências em bancos de dados.
+
+Desenvolvimento de workflow que detecta em tempo real lançamentos inconsistentes em banco de dados, inconsistências que potencialmente interferem no resultado da empresa.
+
+<br>
+<br>
+<br>
+
+
+
 
 ## Estou cursando atualmente:
 
