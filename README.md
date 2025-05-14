@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner_del_dotore.png" style="width: 20%; max-width: 200px;" alt="Imagem responsiva"">
+  <img src="assets/banner_del_dotore.png" alt="Imagem responsiva" width="300">
 </p>
 
 
