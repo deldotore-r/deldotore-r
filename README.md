@@ -125,7 +125,7 @@ O [artigo](https://www.linkedin.com/pulse/sele%C3%A7%C3%A3o-de-hiperpar%C3%A2met
 <br>
 
 <p align="left">
-  <img src="assets/transfer_learning.png" alt="Técnicas de seleção de hiperparâmetros" width="400">
+  <img src="assets/transfer.png" alt="Técnicas de seleção de hiperparâmetros" width="400">
 </p>
 
 No artigo, discuto como o Transfer Learning está revolucionando a forma como são treinados os modelos de inteligência artificial, permitindo que o conhecimento adquirido em uma tarefa seja reaproveitado para outra. 
