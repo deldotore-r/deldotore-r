@@ -131,6 +131,10 @@ No artigo, discuto como o Transfer Learning está revolucionando a forma como s�
 
 Desenvolvimento de workflow que detecta em tempo real lançamentos inconsistentes em banco de dados, inconsistências que potencialmente interferem no resultado da empresa.
 
+<p align="left">
+  <img src="assets/n8n.png" alt="Técnicas de seleção de hiperparâmetros" width="500">
+</p>
+
 <br>
 <br>
 <br>
