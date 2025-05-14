@@ -1,0 +1,153 @@
+<p align="center">
+  <img src="assets/banner_del_dotore.png" alt="Banner" width="300">
+</p>
+
+## 1. Quem sou eu
+
+🔹 Visão Geral: Militar aposentado migrando para IA aplicada à Saúde.
+
+🔹 Objetivos: Resolver problemas reais de saúde com soluções de IA seguras, éticas e escaláveis.
+
+🔹 Lifelong Learner: Adepto do aprendizado contínuo, independente da fase da vida.
+
+
+<br>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&count_private=false" alt="deldotore-r's Stats" width="450">
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="deldotore-r's Top Languages" width="450">
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deldotore-r&theme=outrun&area=true&line=23FF00FF&point=2300FFFF&bg_color=transparent&hide_title=false&custom_title=Atividade%20no%20GitHub%20%E2%9C%A8%F0%9F%9A%80" 
+  alt="deldotore-r's Activity Graph" width="800">
+<br>
+<br>
+
+## Tecnologias que uso
+
+<p align="left">
+  <!-- Primeira linha de badges -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-210e8e?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3cad15?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-1abc9c?style=for-the-badge&logo=n8n&logoColor=white" width="74" height="28" />
+  <br>
+  <!-- Segunda linha de badges -->
+
+  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-purple?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
+  </p>
+
+<br>
+<br>
+
+## Atualmente estou...
+
+1. Aprendendo sobre Inteligência Artificial, especialmente Deep Learning;
+2. Trabalhando em projetos pessoais para ampliar meu portfólio;
+3. Atuando em um projeto comercial de automação na área da saúde.
+
+<br>
+<br>
+
+## Estou cursando atualmente:
+
+1. **Hashtag Treinamentos:** Inteligência Artificial.
+2. **Data Science Academy Brasil:** Formação Inteligência Artificial Para Medicina.
+3. **Asimov Academy:** Python para IA.
+4. **Escola de Inteligência Artificial:** Formação Completa em Inteligência Artificial e Machine Learning.
+5. **Cursa (Universo Discreto):** Redes Neurais e Deep Learning com Python.
+6. **Google:** Curso Intensivo de Machine Learning.
+
+<br>
+<br>
+
+## Projetos e Artigos Destacados
+
+### Detector de Imagens Adulteradas (Lei de Benford).
+
+Desenvolvi um algoritmo simples em Python, que analisa imagens digitais aplicando a Lei de Benford para determinar a probabilidade de uma imagem ser natural ou ter sido adulterada digitalmente (ou criada por IA).
+
+<br>
+
+<p align="left">
+  <img src="assets/benford_N.png" alt="Gráfico: imagem não natural" width="500">
+</p>
+
+**[Ver código completo.](https://github.com/deldotore-r/benford_01)**
+
+A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequência do primeiro dígito segue uma distribuição logarítmica. O código verifica se os pixels de uma imagem seguem esta distribuição, identificando possíveis manipulações.
+<br>
+
+<p align="left">
+  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
+</p>
+
+### Modelos Transformers: a importância da Máscara de Atenção.
+<br>
+
+<p align="left">
+  <img src="assets/mascaras_de_atencao_esquema.png" alt="Esquema - máscara de atenção" width="500">
+</p>
+
+Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo que permite aos modelos de IA (como o GPT) processarem informações de forma eficiente e gerar texto coerente. 
+
+Em breve, o projeto será compartilhado aqui. O [artigo](https://www.linkedin.com/pulse/m%C3%A1scaras-de-aten%C3%A7%C3%A3o-em-transformers-fun%C3%A7%C3%B5es-e-reinaldo-del-dotore-wka0f) está no LinkedIn.
+
+
+<p align="left">
+  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
+</p>
+
+### Seleção de hiperparâmetros em Machine Learning.
+<br>
+
+<p align="left">
+  <img src="assets/grid-random.jpg" alt="Técnicas de seleção de hiperparâmetros" width="500">
+</p>
+
+Nesse artigo, discuto três técnicas de seleção de hiperparâmetros para Machine Learning, utilizando um simples Perceptron como modelo. 
+
+O [artigo](https://www.linkedin.com/pulse/sele%C3%A7%C3%A3o-de-hiperpar%C3%A2metros-em-machine-learning-da-ao-del-dotore-xsnyf) está no LinkedIn.
+<br>
+
+<p align="left">
+  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
+</p>
+
+### Transfer Learning em CNNs.
+
+<br>
+
+<p align="left">
+  <img src="assets/transfer.png" alt="Técnicas de seleção de hiperparâmetros" width="500">
+</p>
+
+No artigo, discuto como o Transfer Learning está revolucionando a forma como são treinados os modelos de inteligência artificial, permitindo que o conhecimento adquirido em uma tarefa seja reaproveitado para outra. 
+
+O [artigo](https://www.linkedin.com/pulse/transfer-learning-em-cnns-aproveitando-o-poder-de-reinaldo-del-dotore-qv2tf/?trackingId=WDTsbewD8YHqC522mNp85w%3D%3D) completo está no LinkedIn.
+
+<br>
+<br>
+
+## Como me encontrar
+
+<div align="left">
+
+  <a href="https://linkedin.com/in/reinaldo-del-dotore"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&#8202;
+  <a href="mailto:deldotore@gmail.com"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&#8202;
+  <a href="https://medium.com/@deldotore"><img src="https://img.shields.io/badge/Medium-3d23d1?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&#8202;
+  <a href="https://deldotore.substack.com/"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack"/></a>
+
+</div>
+<br>
+<br>
+<p align="center">
+  <img src="assets/lifelong_learning.png" alt="Lifelong Learning" width="400">
+</p>
+
