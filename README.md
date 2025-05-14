@@ -84,11 +84,13 @@ Desenvolvi um algoritmo simples em Python, que analisa imagens digitais aplicand
 **[Ver código completo.](https://https://github.com/deldotore-r/benford_01)**
 
 A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequência do primeiro dígito segue uma distribuição logarítmica. O código verifica se os pixels de uma imagem seguem esta distribuição, identificando possíveis manipulações.
-
 <br>
 
-### Modelos Transformers: a importância da Máscara de Atenção.
+<p align="left">
+  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
+</p>
 
+### Modelos Transformers: a importância da Máscara de Atenção.
 <br>
 
 <p align="left">
@@ -99,11 +101,12 @@ Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo 
 
 Em breve, o projeto será compartilhado aqui. O [artigo](https://www.linkedin.com/pulse/m%C3%A1scaras-de-aten%C3%A7%C3%A3o-em-transformers-fun%C3%A7%C3%B5es-e-reinaldo-del-dotore-wka0f) está no LinkedIn.
 
-<br>
-<br>
+
+<p align="left">
+  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
+</p>
 
 ### Seleção de hiperparâmetros em Machine Learning.
-
 <br>
 
 <p align="left">
@@ -113,9 +116,11 @@ Em breve, o projeto será compartilhado aqui. O [artigo](https://www.linkedin.co
 Nesse artigo, discuto três técnicas de seleção de hiperparâmetros para Machine Learning, utilizando um simples Perceptron como modelo. 
 
 O [artigo](https://www.linkedin.com/pulse/sele%C3%A7%C3%A3o-de-hiperpar%C3%A2metros-em-machine-learning-da-ao-del-dotore-xsnyf) está no LinkedIn.
+<br>
 
-<br>
-<br>
+<p align="left">
+  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
+</p>
 
 ### Transfer Learning em CNNs.
 
