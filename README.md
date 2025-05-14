@@ -111,6 +111,19 @@ O [artigo](https://www.linkedin.com/pulse/sele%C3%A7%C3%A3o-de-hiperpar%C3%A2met
 <br>
 <br>
 
+### Transfer Learning em CNNs.
+
+<p align="left">
+  <img src="assets/grid-random.jpg" alt="Técnicas de seleção de hiperparâmetros" width="400">
+</p>
+
+No artigo, discuto como o Transfer Learning está revolucionando a forma como são treinados os modelos de inteligência artificial, permitindo que o conhecimento adquirido em uma tarefa seja reaproveitado para outra. 
+
+O [artigo](https://www.linkedin.com/pulse/transfer-learning-em-cnns-aproveitando-o-poder-de-reinaldo-del-dotore-qv2tf/?trackingId=WDTsbewD8YHqC522mNp85w%3D%3D) completo está no LinkedIn.
+
+<br>
+<br>
+
 ## Como me encontrar
 
 <div align="left">
