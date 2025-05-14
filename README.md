@@ -2,11 +2,6 @@
   <img src="assets/banner_del_dotore.png" alt="Banner" width="400">
 </p>
 
-<p align="left">
-  <img src="assets/benford_N.png" alt="Gráfico: imagem não natural" width="400">
-</p>
-
-
 ## Quem sou eu
 
 Interessado em tecnologia e inovação – especialmente na área da Saúde (minha área profissional original).  
