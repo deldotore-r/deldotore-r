@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/banner_del_dotore.png" alt="Imagem responsiva" width="400">
+  <img src="assets/banner_del_dotore.png" alt="Banner" width="400">
+</p>
+
+<p align="left">
+  <img src="assets/benford_N.png" alt="Gráfico: imagem não natural" width="400">
 </p>
 
 
