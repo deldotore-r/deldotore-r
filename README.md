@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="assets/banner_deldotore.png" alt="Meu banner" width="300">
+  <img src="assets/banner_del_dotore.png" alt="Meu banner" width="300">
 </p>
-
-<br>
-
 
 ## Quem sou eu
 
