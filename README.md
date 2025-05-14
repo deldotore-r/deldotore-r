@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner_del_dotore.png" alt="Meu banner" width="200">
+  <img src="assets/banner_del_dotore.png" alt="Meu banner" width="20%">
 </p>
 
 ## Quem sou eu
