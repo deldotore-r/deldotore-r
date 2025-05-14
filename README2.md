@@ -7,6 +7,7 @@
 ## 1. Quem sou eu:
 
 <br>
+<br>
 
 🔹 Visão Geral: Militar aposentado migrando para IA aplicada à Saúde.
 
@@ -18,19 +19,23 @@
 <br>
 
 ## 2. Estatísticas no Github:
+
 <br>
 <br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&count_private=false" alt="deldotore-r's Stats" width="450">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="deldotore-r's Top Languages" width="450">
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deldotore-r&theme=outrun&area=true&line=23FF00FF&point=2300FFFF&bg_color=transparent&hide_title=false&custom_title=Atividade%20no%20GitHub%20%E2%9C%A8%F0%9F%9A%80" 
   alt="deldotore-r's Activity Graph" width="800">
+  
 <br>
 <br>
 
 ## 3. Tecnologias e ferramentas: 
 
+<br>
 <br>
 
 <p align="left">
@@ -58,6 +63,7 @@
 ## 4. Projetos de estudo:
 
 <br>
+<br>
 
 4.1. 🚀 Detector de Imagens Adulteradas (Lei de Benford): repositório no Github.<br>
 <p align="left">
@@ -84,7 +90,6 @@ Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo 
 
 [Ler o artigo completo.](https://www.linkedin.com/pulse/m%C3%A1scaras-de-aten%C3%A7%C3%A3o-em-transformers-fun%C3%A7%C3%B5es-e-reinaldo-del-dotore-wka0f)
 
-
 <p align="left">
   <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
 </p>
@@ -106,6 +111,7 @@ Nesse artigo, discuto três técnicas de seleção de hiperparâmetros para Mach
 </p>
 <br>
 <br>
+
 4.4. 📖 Transfer Learning em CNNs: artigo no LinkedIn.<br>
 
 <p align="left">
@@ -121,6 +127,7 @@ No artigo, discuto como o Transfer Learning está revolucionando a forma como s�
 
 ## 5. Projetos de trabalho:
 
+<br>
 <br>
 
 5.1. 🤖 Automação na Área da Saúde.<br>
@@ -139,10 +146,10 @@ Desenvolvimento de workflow que detecta em tempo real lançamentos inconsistente
 <br>
 <br>
 
+## 6. 📖 Educação continuada.
 
-
-
-## Estou cursando atualmente:
+<br>
+<br>
 
 1. **Hashtag Treinamentos:** Inteligência Artificial.
 2. **Data Science Academy Brasil:** Formação Inteligência Artificial Para Medicina.
@@ -151,33 +158,10 @@ Desenvolvimento de workflow que detecta em tempo real lançamentos inconsistente
 5. **Cursa (Universo Discreto):** Redes Neurais e Deep Learning com Python.
 6. **Google:** Curso Intensivo de Machine Learning.
 
-<br>
-<br>
-
-
-
 
 <p align="left">
   <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
 </p>
-
-
-
-<p align="left">
-  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
-</p>
-
-### Transfer Learning em CNNs.
-
-<br>
-
-<p align="left">
-  <img src="assets/transfer.png" alt="Técnicas de seleção de hiperparâmetros" width="500">
-</p>
-
-No artigo, discuto como o Transfer Learning está revolucionando a forma como são treinados os modelos de inteligência artificial, permitindo que o conhecimento adquirido em uma tarefa seja reaproveitado para outra. 
-
-O [artigo](https://www.linkedin.com/pulse/transfer-learning-em-cnns-aproveitando-o-poder-de-reinaldo-del-dotore-qv2tf/?trackingId=WDTsbewD8YHqC522mNp85w%3D%3D) completo está no LinkedIn.
 
 <br>
 <br>
