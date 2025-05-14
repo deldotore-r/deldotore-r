@@ -168,6 +168,7 @@ Desenvolvimento de workflow que detecta em tempo real lançamentos inconsistente
 
 ## Como me encontrar
 
+
 <div align="left">
 
   <a href="https://linkedin.com/in/reinaldo-del-dotore"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&#8202;
@@ -176,6 +177,7 @@ Desenvolvimento de workflow que detecta em tempo real lançamentos inconsistente
   <a href="https://deldotore.substack.com/"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack"/></a>
 
 </div>
+
 <br>
 <br>
 <p align="center">
