@@ -92,7 +92,7 @@ A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequê
 <br>
 
 <p align="left">
-  <img src="assets/mascaras_de_atencao_esquema.png" alt="Esquema - máscara de atenção" width="400">
+  <img src="assets/mascaras_de_atencao_esquema.png" alt="Esquema - máscara de atenção" width="500">
 </p>
 
 Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo que permite aos modelos de IA (como o GPT) processarem informações de forma eficiente e gerar texto coerente. 
@@ -108,7 +108,7 @@ Em breve, o projeto será compartilhado aqui. O [artigo](https://www.linkedin.co
 <br>
 
 <p align="left">
-  <img src="assets/grid-random.jpg" alt="Técnicas de seleção de hiperparâmetros" width="400">
+  <img src="assets/grid-random.jpg" alt="Técnicas de seleção de hiperparâmetros" width="500">
 </p>
 
 Nesse artigo, discuto três técnicas de seleção de hiperparâmetros para Machine Learning, utilizando um simples Perceptron como modelo. 
@@ -125,7 +125,7 @@ O [artigo](https://www.linkedin.com/pulse/sele%C3%A7%C3%A3o-de-hiperpar%C3%A2met
 <br>
 
 <p align="left">
-  <img src="assets/transfer.png" alt="Técnicas de seleção de hiperparâmetros" width="400">
+  <img src="assets/transfer.png" alt="Técnicas de seleção de hiperparâmetros" width="500">
 </p>
 
 No artigo, discuto como o Transfer Learning está revolucionando a forma como são treinados os modelos de inteligência artificial, permitindo que o conhecimento adquirido em uma tarefa seja reaproveitado para outra. 
