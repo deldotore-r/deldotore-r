@@ -145,7 +145,8 @@ O [artigo](https://www.linkedin.com/pulse/transfer-learning-em-cnns-aproveitando
 
 </div>
 <br>
-
+<br>
 <p align="center">
-  Na Era da IA, o Lifelong Learning não é uma escolha: é a única opção.
+  <img src="assets/lifelong_learning.png" alt="Lifelong Learning" width="400">
 </p>
+
