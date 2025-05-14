@@ -31,7 +31,7 @@ Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3cad15?style=for-the-badge&logo=supabase&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-1abc9c?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-1abc9c?style=for-the-badge&logo=n8n&logoColor=white" width="74" height="28" />
   <br>
   <!-- Segunda linha de badges -->
 
