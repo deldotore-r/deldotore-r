@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="assets/banner_del_dotore.png" alt="Meu banner" width="20%">
+  <img src="assets/banner_del_dotore.png" style="width: 20%; max-width: 200px;" alt="Imagem responsiva"">
 </p>
+
+<img src="URL-da-imagem" style="width: 100%; max-width: 200px;" alt="Imagem responsiva">
+
+
 
 ## Quem sou eu
 
