@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/lifelong.png" alt="Meu banner" width="300">
+  <img src="assets/banner_deldotore.png" alt="Meu banner" width="300">
 </p>
 
 <br>
