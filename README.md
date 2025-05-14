@@ -75,6 +75,8 @@ Adepto do Lifelong Learning – o aprendizado contínuo ao longo de toda a vida.
 
 Desenvolvi um algoritmo simples em Python, que analisa imagens digitais aplicando a Lei de Benford para determinar a probabilidade de uma imagem ser natural ou ter sido adulterada digitalmente (ou criada por IA).
 
+<br>
+
 <p align="left">
   <img src="assets/benford_N.png" alt="Gráfico: imagem não natural" width="500">
 </p>
@@ -86,6 +88,8 @@ A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequê
 <br>
 
 ### Modelos Transformers: a importância da Máscara de Atenção.
+
+<br>
 
 <p align="left">
   <img src="assets/mascaras_de_atencao_esquema.png" alt="Esquema - máscara de atenção" width="400">
@@ -100,6 +104,8 @@ Em breve, o projeto será compartilhado aqui. O [artigo](https://www.linkedin.co
 
 ### Seleção de hiperparâmetros em Machine Learning.
 
+<br>
+
 <p align="left">
   <img src="assets/grid-random.jpg" alt="Técnicas de seleção de hiperparâmetros" width="400">
 </p>
@@ -113,8 +119,10 @@ O [artigo](https://www.linkedin.com/pulse/sele%C3%A7%C3%A3o-de-hiperpar%C3%A2met
 
 ### Transfer Learning em CNNs.
 
+<br>
+
 <p align="left">
-  <img src="assets/grid-random.jpg" alt="Técnicas de seleção de hiperparâmetros" width="400">
+  <img src="assets/transfer_learning.png" alt="Técnicas de seleção de hiperparâmetros" width="400">
 </p>
 
 No artigo, discuto como o Transfer Learning está revolucionando a forma como são treinados os modelos de inteligência artificial, permitindo que o conhecimento adquirido em uma tarefa seja reaproveitado para outra. 
