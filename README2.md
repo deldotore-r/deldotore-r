@@ -2,7 +2,9 @@
   <img src="assets/banner_del_dotore.png" alt="Banner" width="300">
 </p>
 
-## 1. Quem sou eu
+<br>
+
+## 1. Quem sou eu:
 
 🔹 Visão Geral: Militar aposentado migrando para IA aplicada à Saúde.
 
@@ -10,7 +12,10 @@
 
 🔹 Lifelong Learner: Adepto do aprendizado contínuo, independente da fase da vida.
 
+<br>
+<br>
 
+## 2. Estatísticas no Github:
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&count_private=false" alt="deldotore-r's Stats" width="450">
@@ -22,7 +27,7 @@
 <br>
 <br>
 
-## Tecnologias que uso
+## 3. Tecnologias e ferramentas: 
 
 <p align="left">
   <!-- Primeira linha de badges -->
@@ -46,12 +51,63 @@
 <br>
 <br>
 
-## Atualmente estou...
+## 4. Projetos de estudo:
 
-1. Aprendendo sobre Inteligência Artificial, especialmente Deep Learning;
-2. Trabalhando em projetos pessoais para ampliar meu portfólio;
-3. Atuando em um projeto comercial de automação na área da saúde.
+1. 🚀 Detector de Imagens Adulteradas (Lei de Benford): repositório no Github.<br>
+<p align="left">
+  <img src="assets/benford_N.png" alt="Gráfico: imagem não natural" width="500">
+</p>
 
+A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequência do primeiro dígito segue uma distribuição logarítmica. O código verifica se os pixels de uma imagem seguem esta distribuição, identificando possíveis manipulações.
+
+**[Ver código completo.](https://github.com/deldotore-r/benford_01)**
+
+
+<p align="left">
+  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
+</p>
+<br>
+
+
+2. 📖 Modelos Transformers - Máscaras de Atenção: artigo no LinkedIn.<br>
+<p align="left">
+  <img src="assets/mascaras_de_atencao_esquema.png" alt="Esquema - máscara de atenção" width="500">
+</p>
+
+Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo que permite aos modelos de IA (como o GPT) processarem informações de forma eficiente e gerar texto coerente. 
+
+[Ler o artigo completo.](https://www.linkedin.com/pulse/m%C3%A1scaras-de-aten%C3%A7%C3%A3o-em-transformers-fun%C3%A7%C3%B5es-e-reinaldo-del-dotore-wka0f)
+
+
+<p align="left">
+  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
+</p>
+
+
+
+3. 📖 Seleção de Hiperparâmetros em ML: artigo no LinkedIn.<br>
+<p align="left">
+  <img src="assets/grid-random.jpg" alt="Técnicas de seleção de hiperparâmetros" width="500">
+</p>
+
+Nesse artigo, discuto três técnicas de seleção de hiperparâmetros para Machine Learning, utilizando um simples Perceptron como modelo. 
+
+[Artigo completo no LinkedIn](https://www.linkedin.com/pulse/sele%C3%A7%C3%A3o-de-hiperpar%C3%A2metros-em-machine-learning-da-ao-del-dotore-xsnyf).
+<br>
+
+<p align="left">
+  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
+</p>
+
+4. 📖 Transfer Learning em CNNs: artigo no LinkedIn.<br>
+
+<p align="left">
+  <img src="assets/transfer.png" alt="Técnicas de seleção de hiperparâmetros" width="500">
+</p>
+
+No artigo, discuto como o Transfer Learning está revolucionando a forma como são treinados os modelos de inteligência artificial, permitindo que o conhecimento adquirido em uma tarefa seja reaproveitado para outra. 
+
+[Aqui, o artigo no LinkedIn.](https://www.linkedin.com/pulse/transfer-learning-em-cnns-aproveitando-o-poder-de-reinaldo-del-dotore-qv2tf/?trackingId=WDTsbewD8YHqC522mNp85w%3D%3D) 
 <br>
 <br>
 
@@ -67,54 +123,14 @@
 <br>
 <br>
 
-## Projetos e Artigos Destacados
 
-### Detector de Imagens Adulteradas (Lei de Benford).
-
-Desenvolvi um algoritmo simples em Python, que analisa imagens digitais aplicando a Lei de Benford para determinar a probabilidade de uma imagem ser natural ou ter sido adulterada digitalmente (ou criada por IA).
-
-<br>
-
-<p align="left">
-  <img src="assets/benford_N.png" alt="Gráfico: imagem não natural" width="500">
-</p>
-
-**[Ver código completo.](https://github.com/deldotore-r/benford_01)**
-
-A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequência do primeiro dígito segue uma distribuição logarítmica. O código verifica se os pixels de uma imagem seguem esta distribuição, identificando possíveis manipulações.
-<br>
-
-<p align="left">
-  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
-</p>
-
-### Modelos Transformers: a importância da Máscara de Atenção.
-<br>
-
-<p align="left">
-  <img src="assets/mascaras_de_atencao_esquema.png" alt="Esquema - máscara de atenção" width="500">
-</p>
-
-Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo que permite aos modelos de IA (como o GPT) processarem informações de forma eficiente e gerar texto coerente. 
-
-Em breve, o projeto será compartilhado aqui. O [artigo](https://www.linkedin.com/pulse/m%C3%A1scaras-de-aten%C3%A7%C3%A3o-em-transformers-fun%C3%A7%C3%B5es-e-reinaldo-del-dotore-wka0f) está no LinkedIn.
 
 
 <p align="left">
   <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
 </p>
 
-### Seleção de hiperparâmetros em Machine Learning.
-<br>
 
-<p align="left">
-  <img src="assets/grid-random.jpg" alt="Técnicas de seleção de hiperparâmetros" width="500">
-</p>
-
-Nesse artigo, discuto três técnicas de seleção de hiperparâmetros para Machine Learning, utilizando um simples Perceptron como modelo. 
-
-O [artigo](https://www.linkedin.com/pulse/sele%C3%A7%C3%A3o-de-hiperpar%C3%A2metros-em-machine-learning-da-ao-del-dotore-xsnyf) está no LinkedIn.
-<br>
 
 <p align="left">
   <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
