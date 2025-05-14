@@ -78,7 +78,7 @@ Desenvolvi um algoritmo simples em Python, que analisa imagens digitais aplicand
   <img src="assets/benford_N.png" alt="Gráfico: imagem não natural" width="500">
 </p>
 
-**[Ver código completo.](https://https://github.com/deldotore-r/benford_01)**
+**[Ver código completo.](https://github.com/deldotore-r/benford_01)**
 
 A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequência do primeiro dígito segue uma distribuição logarítmica. O código verifica se os pixels de uma imagem seguem esta distribuição, identificando possíveis manipulações.
 <br>
