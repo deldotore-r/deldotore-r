@@ -153,7 +153,24 @@ Nesse artigo, exploro o algoritmo Apriori - uma abordagem elegante e eficiente p
 
 [Leia o artigo no LinkedIn.](https://www.linkedin.com/pulse/algoritmo-apriori-desbloqueando-padr%C3%B5es-ocultos-em-de-del-dotore-5jsle/?trackingId=hX0rHAzjFIMv2gUo7VWvww%3D%3D) 
 
+<p align="left">
+  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
+</p>
 
+<br>
+<br>
+
+4.6. 📖 Recall - a métrica-chave em modelos de classificação para diagnóstico médico: artigo no LinkedIn.<br>
+
+<br>
+
+<p align="left">
+  <img src="assets/recall.png" alt="Trecho de código Python" width="500">
+</p>
+
+No artigo, demonstro por que a preponderância do Recall como métrica principal em sistemas de classificação para diagnóstico médico não é apenas uma preferência estatística, mas uma obrigação clínica fundamentada em princípios médicos, éticos e matemáticos.
+
+[Leia o artigo no LinkedIn.](https://www.linkedin.com/pulse/algoritmo-apriori-desbloqueando-padr%C3%B5es-ocultos-em-de-del-dotore-5jsle/?trackingId=hX0rHAzjFIMv2gUo7VWvww%3D%3D) 
 
 
 
