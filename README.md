@@ -92,7 +92,7 @@ A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequê
   <img src="assets/mascaras_de_atencao_esquema.png" alt="Esquema - máscara de atenção" width="500">
 </p>
 
-Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo que permite aos modelos de IA (como o GPT) processarem informações de forma eficiente e gerar texto coerente. 
+O papel crítico das máscaras de atenção - o mecanismo que permite aos modelos de IA (como o GPT) processarem informações de forma eficiente e gerar texto coerente. 
 
 [Ler o artigo completo.](https://www.linkedin.com/pulse/m%C3%A1scaras-de-aten%C3%A7%C3%A3o-em-transformers-fun%C3%A7%C3%B5es-e-reinaldo-del-dotore-wka0f)
 
@@ -130,7 +130,7 @@ Nesse artigo, discuto três técnicas de seleção de hiperparâmetros para Mach
   <img src="assets/transfer.png" alt="Transfer Learning" width="500">
 </p>
 
-No artigo, discuto como o Transfer Learning está revolucionando a forma como são treinados os modelos de inteligência artificial, permitindo que o conhecimento adquirido em uma tarefa seja reaproveitado para outra. 
+O Transfer Learning está revolucionando a forma como são treinados os modelos de inteligência artificial, permitindo que o conhecimento adquirido em uma tarefa seja reaproveitado para outra. 
 
 [Aqui, o artigo no LinkedIn.](https://www.linkedin.com/pulse/transfer-learning-em-cnns-aproveitando-o-poder-de-reinaldo-del-dotore-qv2tf/?trackingId=WDTsbewD8YHqC522mNp85w%3D%3D) 
 
@@ -149,7 +149,7 @@ No artigo, discuto como o Transfer Learning está revolucionando a forma como s�
   <img src="assets/apriori.png" alt="Trecho de código Python" width="500">
 </p>
 
-Nesse artigo, exploro o algoritmo Apriori - uma abordagem elegante e eficiente para a descoberta de padrões frequentes em conjuntos de dados.
+O algoritmo Apriori - uma abordagem elegante e eficiente para a descoberta de padrões frequentes em conjuntos de dados.
 
 [Leia o artigo no LinkedIn.](https://www.linkedin.com/pulse/algoritmo-apriori-desbloqueando-padr%C3%B5es-ocultos-em-de-del-dotore-5jsle/?trackingId=hX0rHAzjFIMv2gUo7VWvww%3D%3D) 
 
@@ -168,7 +168,7 @@ Nesse artigo, exploro o algoritmo Apriori - uma abordagem elegante e eficiente p
   <img src="assets/recall.png" alt="Recall" width="500">
 </p>
 
-No artigo, demonstro por que a preponderância do Recall como métrica principal em sistemas de classificação para diagnóstico médico não é apenas uma preferência estatística, mas uma obrigação clínica fundamentada em princípios médicos, éticos e matemáticos.
+A preponderância do Recall como métrica principal em sistemas de classificação para diagnóstico médico não é apenas uma preferência estatística, mas uma obrigação clínica fundamentada em princípios médicos, éticos e matemáticos.
 
 [Artigo no LinkedIn.](https://www.linkedin.com/pulse/algoritmo-apriori-desbloqueando-padr%C3%B5es-ocultos-em-de-del-dotore-5jsle/?trackingId=hX0rHAzjFIMv2gUo7VWvww%3D%3D) 
 
