@@ -127,7 +127,7 @@ Nesse artigo, discuto três técnicas de seleção de hiperparâmetros para Mach
 <br>
 
 <p align="left">
-  <img src="assets/transfer.png" alt="Técnicas de seleção de hiperparâmetros" width="500">
+  <img src="assets/transfer.png" alt="Transfer Learning" width="500">
 </p>
 
 No artigo, discuto como o Transfer Learning está revolucionando a forma como são treinados os modelos de inteligência artificial, permitindo que o conhecimento adquirido em uma tarefa seja reaproveitado para outra. 
@@ -165,7 +165,7 @@ Nesse artigo, exploro o algoritmo Apriori - uma abordagem elegante e eficiente p
 <br>
 
 <p align="left">
-  <img src="assets/recall.png" alt="Trecho de código Python" width="500">
+  <img src="assets/recall.png" alt="Recall" width="500">
 </p>
 
 No artigo, demonstro por que a preponderância do Recall como métrica principal em sistemas de classificação para diagnóstico médico não é apenas uma preferência estatística, mas uma obrigação clínica fundamentada em princípios médicos, éticos e matemáticos.
