@@ -134,6 +134,25 @@ No artigo, discuto como o Transfer Learning está revolucionando a forma como s�
 
 [Aqui, o artigo no LinkedIn.](https://www.linkedin.com/pulse/transfer-learning-em-cnns-aproveitando-o-poder-de-reinaldo-del-dotore-qv2tf/?trackingId=WDTsbewD8YHqC522mNp85w%3D%3D) 
 
+
+
+4.5. 📖 Algoritmo Apriori - desbloqueando padrões ocultos em grandes conjuntos de dados: artigo no LinkedIn.<br>
+
+<br>
+
+<p align="left">
+  <img src="assets/apriori.jpg" alt="Trecho de código Python" width="500">
+</p>
+
+No artigo, discuto como o Transfer Learning está revolucionando a forma como são treinados os modelos de inteligência artificial, permitindo que o conhecimento adquirido em uma tarefa seja reaproveitado para outra. 
+
+[Aqui, o artigo no LinkedIn.](https://www.linkedin.com/pulse/transfer-learning-em-cnns-aproveitando-o-poder-de-reinaldo-del-dotore-qv2tf/?trackingId=WDTsbewD8YHqC522mNp85w%3D%3D) 
+
+
+
+
+
+
 <br>
 <br>
 <br>
