@@ -209,6 +209,8 @@ Essencialmente, a função Softmax transforma um vetor de números reais em uma 
 
 Desenvolvimento de workflow que detecta em tempo real lançamentos inconsistentes em banco de dados, inconsistências que potencialmente interferem no resultado da empresa.
 
+<br>
+
 <p align="left">
   <img src="assets/n8n.png" alt="Técnicas de seleção de hiperparâmetros" width="500">
 </p>
