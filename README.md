@@ -170,9 +170,26 @@ Nesse artigo, exploro o algoritmo Apriori - uma abordagem elegante e eficiente p
 
 No artigo, demonstro por que a preponderância do Recall como métrica principal em sistemas de classificação para diagnóstico médico não é apenas uma preferência estatística, mas uma obrigação clínica fundamentada em princípios médicos, éticos e matemáticos.
 
-[Leia o artigo no LinkedIn.](https://www.linkedin.com/pulse/algoritmo-apriori-desbloqueando-padr%C3%B5es-ocultos-em-de-del-dotore-5jsle/?trackingId=hX0rHAzjFIMv2gUo7VWvww%3D%3D) 
+[Artigo no LinkedIn.](https://www.linkedin.com/pulse/algoritmo-apriori-desbloqueando-padr%C3%B5es-ocultos-em-de-del-dotore-5jsle/?trackingId=hX0rHAzjFIMv2gUo7VWvww%3D%3D) 
 
+<p align="left">
+  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
+</p>
 
+<br>
+<br>
+
+4.7. 📖 A função Softmax - transformando valores em probabilidades: artigo no LinkedIn.<br>
+
+<br>
+
+<p align="left">
+  <img src="assets/softmax.png" alt="Esquema de Rede Neural Convolucional" width="500">
+</p>
+
+Essencialmente, a função Softmax transforma um vetor de números reais em uma distribuição de probabilidades. Ela parte de valores que podem ser muito distantes entre si (positivos ou negativos) e converte em valores entre 0 e 1, fazendo com que a soma de todos os valores seja exatamente 1 (ou 100%).
+
+[Artigo completo.](https://www.linkedin.com/pulse/fun%C3%A7%C3%A3o-softmax-transformando-valores-em-reinaldo-del-dotore-teypf/?trackingId=IPKKN704W6iaB93onmkoOA%3D%3D) 
 
 
 <br>
