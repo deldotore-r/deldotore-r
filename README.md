@@ -66,6 +66,9 @@
 <br>
 
 4.1. 🚀 Detector de Imagens Adulteradas (Lei de Benford): repositório no Github.<br>
+
+<br>
+
 <p align="left">
   <img src="assets/benford_N.png" alt="Gráfico: imagem não natural" width="500">
 </p>
@@ -74,14 +77,17 @@ A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequê
 
 **[Ver código completo.](https://github.com/deldotore-r/benford_01)**
 
-
 <p align="left">
   <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
 </p>
+
 <br>
 <br>
 
 4.2. 📖 Modelos Transformers - Máscaras de Atenção: artigo no LinkedIn.<br>
+
+<br>
+
 <p align="left">
   <img src="assets/mascaras_de_atencao_esquema.png" alt="Esquema - máscara de atenção" width="500">
 </p>
@@ -93,10 +99,14 @@ Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo 
 <p align="left">
   <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
 </p>
+
 <br>
 <br>
 
 4.3. 📖 Seleção de Hiperparâmetros em ML: artigo no LinkedIn.<br>
+
+<br>
+
 <p align="left">
   <img src="assets/grid-random.jpg" alt="Técnicas de seleção de hiperparâmetros" width="500">
 </p>
@@ -104,15 +114,17 @@ Em um artigo, exploro o papel crítico das máscaras de atenção - o mecanismo 
 Nesse artigo, discuto três técnicas de seleção de hiperparâmetros para Machine Learning, utilizando um simples Perceptron como modelo. 
 
 [Artigo completo no LinkedIn](https://www.linkedin.com/pulse/sele%C3%A7%C3%A3o-de-hiperpar%C3%A2metros-em-machine-learning-da-ao-del-dotore-xsnyf).
-<br>
 
 <p align="left">
   <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
 </p>
+
 <br>
 <br>
 
 4.4. 📖 Transfer Learning em CNNs: artigo no LinkedIn.<br>
+
+<br>
 
 <p align="left">
   <img src="assets/transfer.png" alt="Técnicas de seleção de hiperparâmetros" width="500">
@@ -121,6 +133,7 @@ Nesse artigo, discuto três técnicas de seleção de hiperparâmetros para Mach
 No artigo, discuto como o Transfer Learning está revolucionando a forma como são treinados os modelos de inteligência artificial, permitindo que o conhecimento adquirido em uma tarefa seja reaproveitado para outra. 
 
 [Aqui, o artigo no LinkedIn.](https://www.linkedin.com/pulse/transfer-learning-em-cnns-aproveitando-o-poder-de-reinaldo-del-dotore-qv2tf/?trackingId=WDTsbewD8YHqC522mNp85w%3D%3D) 
+
 <br>
 <br>
 <br>
