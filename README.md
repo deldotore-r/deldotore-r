@@ -38,20 +38,20 @@
 <br>
 <br>
 
-<p align="left">
+<p align="center">
   <!-- Primeira linha de badges -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-210e8e?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3cad15?style=for-the-badge&logo=supabase&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="n8n" src="https://img.shields.io/badge/n8n-1abc9c?style=for-the-badge&logo=n8n&logoColor=white" width="74" height="28" />
+  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="assets/css3.png" height=28 />
   <br>
   <!-- Segunda linha de badges -->
 
-  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="assets/css3.png" height=28 />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-purple?style=for-the-badge&logo=tensorflow&logoColor=white" />
