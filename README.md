@@ -192,7 +192,7 @@ Essencialmente, a função Softmax transforma um vetor de números reais em uma 
 
 [Artigo completo.](https://www.linkedin.com/pulse/fun%C3%A7%C3%A3o-softmax-transformando-valores-em-reinaldo-del-dotore-teypf/?trackingId=IPKKN704W6iaB93onmkoOA%3D%3D) 
 
-4.8. 📖 Site institucional do Rotary Club da Guarda.<br>
+4.8. 🌐 Site institucional do Rotary Club da Guarda.<br>
 
 <br>
 
