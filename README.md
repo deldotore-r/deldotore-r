@@ -9,7 +9,7 @@
 <br>
 <br>
 
-🔹 Visão Geral: Militar aposentado migrando para IA aplicada à Saúde.
+🔹 Visão Geral: Militar aposentado migrando para a Tecnologia da Informação (especialmente IA aplicada à Saúde).
 
 🔹 Objetivos: Resolver problemas reais de saúde com soluções de IA seguras, éticas e escaláveis.
 
@@ -191,6 +191,18 @@ A preponderância do Recall como métrica principal em sistemas de classificaç�
 Essencialmente, a função Softmax transforma um vetor de números reais em uma distribuição de probabilidades. Ela parte de valores que podem ser muito distantes entre si (positivos ou negativos) e converte em valores entre 0 e 1, fazendo com que a soma de todos os valores seja exatamente 1 (ou 100%).
 
 [Artigo completo.](https://www.linkedin.com/pulse/fun%C3%A7%C3%A3o-softmax-transformando-valores-em-reinaldo-del-dotore-teypf/?trackingId=IPKKN704W6iaB93onmkoOA%3D%3D) 
+
+4.8. 📖 Site institucional do Rotary Club da Guarda.<br>
+
+<br>
+
+<p align="left">
+  <img src="assets/rotary.jpg" alt="Print da páginia inicial do site" width="500">
+</p>
+
+Como parte dos meus estudos sobre desenvolvimento web, criei o site institucional do Rotary Club da Guarda, utilizando apenas HTML, CSS e JavaScript.
+
+[Site completo](https://rotaryclubguarda.org/) 
 
 
 <br>
