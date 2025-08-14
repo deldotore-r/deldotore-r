@@ -9,9 +9,7 @@
 <br>
 <br>
 
-🔹 Visão Geral: Militar aposentado migrando para a Tecnologia da Informação (especialmente IA aplicada à Saúde).
-
-🔹 Objetivos: Resolver problemas reais de saúde com soluções de IA seguras, éticas e escaláveis.
+🔹 Visão Geral: Militar aposentado migrando para a Tecnologia da Informação.
 
 🔹 Lifelong Learner: Adepto do aprendizado contínuo, independente da fase da vida.
 
