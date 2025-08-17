@@ -46,6 +46,8 @@
   <img alt="n8n" src="https://img.shields.io/badge/n8n-1abc9c?style=for-the-badge&logo=n8n&logoColor=white" width="74" height="28" />
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="assets/css3.png" height=28 />
+  <img alt="HTML" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+
   <br>
   <!-- Segunda linha de badges -->
 
@@ -54,6 +56,9 @@
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-purple?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="Transformers" src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img alt="Apache Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+
+  https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white
   </p>
 
 <br>
