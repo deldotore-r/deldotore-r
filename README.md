@@ -9,9 +9,26 @@
 <br>
 <br>
 
-🔹 Visão Geral: Militar aposentado migrando para a Tecnologia da Informação.
+🔹 Visão Geral: Profissional em transição de carreira, apaixonado por tecnologia, automação e dados.
 
-🔹 Lifelong Learner: Adepto do aprendizado contínuo, independente da fase da vida.
+Após mais de 30 anos de experiência como oficial militar na área da saúde, trago competências que considero diferenciais: disciplina, organização, resiliência, foco e responsabilidade.
+
+Nos últimos anos, venho me dedicando de forma autodidática ao estudo e prática em:
+
+- Python (automação e manipulação de dados)
+
+- SQL (consultas e análise de dados)
+
+- Docker e Airflow (orquestração de workflows e pipelines)
+
+- Supabase e n8n (integração e automação de processos)
+
+
+🎯 Minha proposta de valor: não me defino como engenheiro de software ou de dados, mas como um solucionador de problemas técnicos, capaz de aprender rápido, estruturar processos e entregar resultados práticos.
+
+<br>
+
+🔹 Lifelong Learner: Adepto do aprendizado contínuo, independentemente da fase da vida.
 
 <br>
 <br>
