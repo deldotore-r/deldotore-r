@@ -64,6 +64,8 @@ Nos últimos anos, venho me dedicando de forma autodidática ao estudo e prátic
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="assets/css3.png" height=28 />
   <img alt="HTML" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="NGINX" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  
 
   <br>
   <!-- Segunda linha de badges -->
