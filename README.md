@@ -23,6 +23,9 @@ Nos últimos anos, venho me dedicando de forma autodidática ao estudo e prátic
 
 - Supabase e n8n (integração e automação de processos)
 
+- Engenharia de dados (ETL, ELT, cloud, etc.).
+
+<br>
 
 🎯 Minha proposta de valor: não me defino como engenheiro de software ou de dados, mas como um solucionador de problemas técnicos, capaz de aprender rápido, estruturar processos e entregar resultados práticos.
 
@@ -253,24 +256,10 @@ Desenvolvimento de workflow que detecta em tempo real lançamentos inconsistente
 <br>
 <br>
 
-## 6. 📖 Educação continuada.
 
-<br>
-<br>
-
-1. **Hashtag Treinamentos:** Inteligência Artificial.
-2. **Data Science Academy Brasil:** Formação Inteligência Artificial Para Medicina.
-3. **Asimov Academy:** Python para IA.
-4. **Escola de Inteligência Artificial:** Formação Completa em Inteligência Artificial e Machine Learning.
-5. **Cursa (Universo Discreto):** Redes Neurais e Deep Learning com Python.
-6. **Google:** Curso Intensivo de Machine Learning.
+---
 
 
-<p align="left">
-  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
-</p>
-
-<br>
 <br>
 
 ## Como me encontrar
@@ -280,8 +269,8 @@ Desenvolvimento de workflow que detecta em tempo real lançamentos inconsistente
 
   <a href="https://linkedin.com/in/reinaldo-del-dotore"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&#8202;
   <a href="mailto:deldotore@gmail.com"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&#8202;
-  <a href="https://medium.com/@deldotore"><img src="https://img.shields.io/badge/Medium-3d23d1?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>&#8202;
-  <a href="https://deldotore.substack.com/"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack"/></a>
+ 
+  
 
 </div>
 
