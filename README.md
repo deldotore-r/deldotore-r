@@ -52,38 +52,28 @@ Nos últimos anos, venho me dedicando de forma autodidática ao estudo e prátic
 <br>
 
 ## 3. Tecnologias e ferramentas: 
-
 <br>
-<br>
-
 <p align="center">
-  <!-- Primeira linha de badges -->
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-210e8e?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3cad15?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-1abc9c?style=for-the-badge&logo=n8n&logoColor=white" width="74" height="28" />
-  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="assets/css3.png" height=28 />
-  <img alt="HTML" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="NGINX" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  
-
-  <br>
-  <!-- Segunda linha de badges -->
-
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img alt="Neural Networks" src="https://img.shields.io/badge/Neural%20Networks-purple?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-yellow?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img alt="Apache Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-
-  </p>
-
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /><br>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/Machine_Learning-90C948?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep_Learning-55AADC?style=flat-square" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Neural_Networks-A040A0?style=flat-square" alt="Neural Networks" />
+  <img src="https://img.shields.io/badge/Transformers-FFC200?style=flat-square&logo=hugging-face&logoColor=black" alt="Transformers" />
+</p>
 <br>
 <br>
+
 
 ## 4. Projetos de estudo:
 
