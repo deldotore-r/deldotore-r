@@ -9,9 +9,7 @@
 <br>
 <br>
 
-🔹 Visão Geral: Profissional em transição de carreira, apaixonado por tecnologia, automação e dados.
-
-Após mais de 30 anos de experiência como oficial militar na área da saúde, trago competências que considero diferenciais: disciplina, organização, resiliência, foco e responsabilidade.
+🔹 Visão Geral: “Profissional em transição da área militar para tecnologia, com foco em Cloud, Infraestrutura como Código e Engenharia de Dados. Trago 30 anos de experiência em liderança e processos críticos, agora aplicados em soluções de automação e eficiência operacional com tecnologias modernas.
 
 Nos últimos anos, venho me dedicando de forma autodidática ao estudo e prática em:
 
@@ -24,6 +22,12 @@ Nos últimos anos, venho me dedicando de forma autodidática ao estudo e prátic
 - Supabase e n8n (integração e automação de processos)
 
 - Engenharia de dados (ETL, ELT, cloud, etc.).
+
+- Terraform (Infraestrutura como Código).
+
+- Ansible (gerenciamento de infraestrutura cloud).
+
+- Cloud AWS (provedor de cloud com maior market share).
 
 <br>
 
@@ -39,7 +43,8 @@ Nos últimos anos, venho me dedicando de forma autodidática ao estudo e prátic
 ## 2. Estatísticas no Github:
 
 <br>
-<br>
+Meu GitHub reflete uma rotina constante de estudos e prática técnica — projetos reais, experimentos e automações.
+<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&count_private=false" alt="deldotore-r's Stats" width="450">
 <br>
@@ -76,6 +81,9 @@ Nos últimos anos, venho me dedicando de forma autodidática ao estudo e prátic
 
 
 ## 4. Projetos de estudo:
+<br>
+
+Meus projetos de estudo refletem a aplicação prática de conceitos de ciência de dados, aprendizado de máquina e automação. Todos foram desenvolvidos de forma independente, com foco em aprendizado técnico real.
 
 <br>
 <br>
@@ -218,6 +226,10 @@ Como parte dos meus estudos sobre desenvolvimento web, criei o site instituciona
 
 [Site completo](https://rotaryclubguarda.org/) 
 
+4.9. ☁️ Infraestrutura como Código na AWS (Terraform)
+Primeiro projeto público voltado para Cloud e DevOps, criando uma infraestrutura completa na AWS — EC2, Security Group e S3 — totalmente automatizada via Terraform.
+[🔗 Repositório no GitHub](https://github.com/deldotore-r/aws-basic-infra-terraform)
+
 
 <br>
 <br>
@@ -230,7 +242,7 @@ Como parte dos meus estudos sobre desenvolvimento web, criei o site instituciona
 
 5.1. 🤖 Automação na Área da Saúde.<br>
 
--  Cliente: 🤐<br>
+-  Cliente: Confidencial (projeto privado).<br>
 -  Ferramentas: n8n, Python, Supabase.<br>
 -  Escopo: detecção em tempo real de inconsistências em bancos de dados.
 
@@ -257,6 +269,7 @@ Desenvolvimento de workflow que detecta em tempo real lançamentos inconsistente
 
 <div align="left">
 
+  <a href="https://github.com/deldotore-r"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/reinaldo-del-dotore"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&#8202;
   <a href="mailto:deldotore@gmail.com"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&#8202;
  
