@@ -234,7 +234,7 @@ Primeiro projeto público voltado para Cloud e DevOps, criando uma infraestrutur
   <img src="assets/terraform_plan.png" alt="Recall" width="500">
 
 
-<br>
+
 <br>
 <br>
 
