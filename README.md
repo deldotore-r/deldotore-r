@@ -231,7 +231,7 @@ Primeiro projeto público voltado para Cloud e DevOps, criando uma infraestrutur
 [🔗 Repositório no GitHub](https://github.com/deldotore-r/aws-basic-infra-terraform)
 <br>
 
-  <img src="assets/recall.png" alt="Recall" width="500">
+  <img src="assets/terraform_plan.png" alt="Recall" width="500">
 
 
 <br>
