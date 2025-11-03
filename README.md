@@ -1,63 +1,39 @@
+# Reinaldo Del Dotore — Cloud | DevOps | Infraestrutura como Código
+
 <p align="center">
   <img src="assets/banner_del_dotore.png" alt="Banner" width="300">
 </p>
 
-<br>
-
 ## 1. Quem sou eu:
 
-<br>
-<br>
-
-🔹 Visão Geral: “Profissional em transição da área militar para tecnologia, com foco em Cloud, Infraestrutura como Código e Engenharia de Dados. Trago 30 anos de experiência em liderança e processos críticos, agora aplicados em soluções de automação e eficiência operacional com tecnologias modernas.
+🔹 **Visão Geral:** Profissional em transição da área militar para tecnologia, com foco em Cloud, Infraestrutura como Código e Engenharia de Dados. Trago 30 anos de experiência em liderança e processos críticos, agora aplicados em soluções de automação e eficiência operacional com tecnologias modernas.
 
 Nos últimos anos, venho me dedicando de forma autodidática ao estudo e prática em:
 
 - Python (automação e manipulação de dados)
-
 - SQL (consultas e análise de dados)
-
 - Docker e Airflow (orquestração de workflows e pipelines)
-
 - Supabase e n8n (integração e automação de processos)
+- Engenharia de dados (ETL, ELT, cloud, etc.)
+- Terraform (Infraestrutura como Código)
+- Ansible (gerenciamento de infraestrutura cloud)
+- Cloud AWS (provedor de cloud com maior market share)
 
-- Engenharia de dados (ETL, ELT, cloud, etc.).
+🎯 **Minha proposta de valor:** não me defino como engenheiro de software ou de dados, mas como um solucionador de problemas técnicos, capaz de aprender rápido, estruturar processos e entregar resultados práticos.
 
-- Terraform (Infraestrutura como Código).
-
-- Ansible (gerenciamento de infraestrutura cloud).
-
-- Cloud AWS (provedor de cloud com maior market share).
-
-<br>
-
-🎯 Minha proposta de valor: não me defino como engenheiro de software ou de dados, mas como um solucionador de problemas técnicos, capaz de aprender rápido, estruturar processos e entregar resultados práticos.
-
-<br>
-
-🔹 Lifelong Learner: Adepto do aprendizado contínuo, independentemente da fase da vida.
-
-<br>
-<br>
+🔹 **Lifelong Learner:** Adepto do aprendizado contínuo, independentemente da fase da vida.
 
 ## 2. Estatísticas no Github:
 
-<br>
 Meu GitHub reflete uma rotina constante de estudos e prática técnica — projetos reais, experimentos e automações.
-<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&count_private=false" alt="deldotore-r's Stats" width="450">
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deldotore-r&theme=outrun&show_icons=true&hide_border=false&layout=compact" alt="deldotore-r's Top Languages" width="450">
-<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=deldotore-r&theme=outrun&area=true&line=23FF00FF&point=2300FFFF&bg_color=transparent&hide_title=false&custom_title=Atividade%20no%20GitHub%20%E2%9C%A8%F0%9F%9A%80" 
   alt="deldotore-r's Activity Graph" width="800">
-  
-<br>
-<br>
 
-## 3. Tecnologias e ferramentas: 
-<br>
+## 3. Tecnologias e ferramentas:
+
 <p align="center">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
@@ -76,213 +52,147 @@ Meu GitHub reflete uma rotina constante de estudos e prática técnica — proje
   <img src="https://img.shields.io/badge/Neural_Networks-A040A0?style=flat-square" alt="Neural Networks" />
   <img src="https://img.shields.io/badge/Transformers-FFC200?style=flat-square&logo=hugging-face&logoColor=black" alt="Transformers" />
 </p>
-<br>
-<br>
-
 
 ## 4. Projetos de estudo:
-<br>
 
-Meus projetos de estudo refletem a aplicação prática de conceitos de ciência de dados, aprendizado de máquina e automação. Todos foram desenvolvidos de forma independente, com foco em aprendizado técnico real.
+Meus projetos refletem aplicação prática de ciência de dados, aprendizado de máquina e automação, desenvolvidos de forma independente.
 
-<br>
-<br>
+### 4.1. 🚀 Detector de Imagens Adulteradas (Lei de Benford)
 
-4.1. 🚀 Detector de Imagens Adulteradas (Lei de Benford): repositório no Github.<br>
-
-<br>
-
-<p align="left">
+<p align="center">
   <img src="assets/benford_N.png" alt="Gráfico: imagem não natural" width="500">
 </p>
 
 A Lei de Benford estabelece que em muitos conjuntos de dados naturais, a frequência do primeiro dígito segue uma distribuição logarítmica. O código verifica se os pixels de uma imagem seguem esta distribuição, identificando possíveis manipulações.
 
-**[Ver código completo.](https://github.com/deldotore-r/benford_01)**
+**[Ver código completo](https://github.com/deldotore-r/benford_01)**
 
-<p align="left">
-  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
-</p>
+---
 
-<br>
-<br>
+### 4.2. 📖 Modelos Transformers - Máscaras de Atenção
 
-4.2. 📖 Modelos Transformers - Máscaras de Atenção: artigo no LinkedIn.<br>
-
-<br>
-
-<p align="left">
+<p align="center">
   <img src="assets/mascaras_de_atencao_esquema.png" alt="Esquema - máscara de atenção" width="500">
 </p>
 
-O papel crítico das máscaras de atenção - o mecanismo que permite aos modelos de IA (como o GPT) processarem informações de forma eficiente e gerar texto coerente. 
+O papel crítico das máscaras de atenção — o mecanismo que permite aos modelos de IA (como o GPT) processarem informações de forma eficiente e gerar texto coerente. 
 
-[Ler o artigo completo.](https://www.linkedin.com/pulse/m%C3%A1scaras-de-aten%C3%A7%C3%A3o-em-transformers-fun%C3%A7%C3%B5es-e-reinaldo-del-dotore-wka0f)
+[Ler o artigo completo](https://www.linkedin.com/pulse/m%C3%A1scaras-de-aten%C3%A7%C3%A3o-em-transformers-fun%C3%A7%C3%B5es-e-reinaldo-del-dotore-wka0f)
 
-<p align="left">
-  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
-</p>
+---
 
-<br>
-<br>
+### 4.3. 📖 Seleção de Hiperparâmetros em ML
 
-4.3. 📖 Seleção de Hiperparâmetros em ML: artigo no LinkedIn.<br>
-
-<br>
-
-<p align="left">
+<p align="center">
   <img src="assets/grid-random.jpg" alt="Técnicas de seleção de hiperparâmetros" width="500">
 </p>
 
-Nesse artigo, discuto três técnicas de seleção de hiperparâmetros para Machine Learning, utilizando um simples Perceptron como modelo. 
+Discussão de três técnicas de seleção de hiperparâmetros para Machine Learning, utilizando um simples Perceptron como modelo. 
 
-[Artigo completo no LinkedIn](https://www.linkedin.com/pulse/sele%C3%A7%C3%A3o-de-hiperpar%C3%A2metros-em-machine-learning-da-ao-del-dotore-xsnyf).
+[Artigo completo no LinkedIn](https://www.linkedin.com/pulse/sele%C3%A7%C3%A3o-de-hiperpar%C3%A2metros-em-machine-learning-da-ao-del-dotore-xsnyf)
 
-<p align="left">
-  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
-</p>
+---
 
-<br>
-<br>
+### 4.4. 📖 Transfer Learning em CNNs
 
-4.4. 📖 Transfer Learning em CNNs: artigo no LinkedIn.<br>
-
-<br>
-
-<p align="left">
+<p align="center">
   <img src="assets/transfer.png" alt="Transfer Learning" width="500">
 </p>
 
-O Transfer Learning está revolucionando a forma como são treinados os modelos de inteligência artificial, permitindo que o conhecimento adquirido em uma tarefa seja reaproveitado para outra. 
+O Transfer Learning permite reaproveitar conhecimento adquirido em uma tarefa para outra, revolucionando o treinamento de modelos de IA. 
 
-[Aqui, o artigo no LinkedIn.](https://www.linkedin.com/pulse/transfer-learning-em-cnns-aproveitando-o-poder-de-reinaldo-del-dotore-qv2tf/?trackingId=WDTsbewD8YHqC522mNp85w%3D%3D) 
+[Aqui, o artigo no LinkedIn](https://www.linkedin.com/pulse/transfer-learning-em-cnns-aproveitando-o-poder-de-reinaldo-del-dotore-qv2tf/?trackingId=WDTsbewD8YHqC522mNp85w%3D%3D)
 
-<p align="left">
-  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
-</p>
+---
 
-<br>
-<br>
+### 4.5. 📖 Algoritmo Apriori - desbloqueando padrões ocultos
 
-4.5. 📖 Algoritmo Apriori - desbloqueando padrões ocultos em grandes conjuntos de dados: artigo no LinkedIn.<br>
-
-<br>
-
-<p align="left">
+<p align="center">
   <img src="assets/apriori.png" alt="Trecho de código Python" width="500">
 </p>
 
-O algoritmo Apriori - uma abordagem elegante e eficiente para a descoberta de padrões frequentes em conjuntos de dados.
+Descoberta de padrões frequentes em grandes conjuntos de dados usando o algoritmo Apriori.
 
-[Leia o artigo no LinkedIn.](https://www.linkedin.com/pulse/algoritmo-apriori-desbloqueando-padr%C3%B5es-ocultos-em-de-del-dotore-5jsle/?trackingId=hX0rHAzjFIMv2gUo7VWvww%3D%3D) 
+[Leia o artigo no LinkedIn](https://www.linkedin.com/pulse/algoritmo-apriori-desbloqueando-padr%C3%B5es-ocultos-em-de-del-dotore-5jsle/?trackingId=hX0rHAzjFIMv2gUo7VWvww%3D%3D)
 
-<p align="left">
-  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
-</p>
+---
 
-<br>
-<br>
+### 4.6. 📖 Recall - métrica-chave em modelos de classificação
 
-4.6. 📖 Recall - a métrica-chave em modelos de classificação para diagnóstico médico: artigo no LinkedIn.<br>
-
-<br>
-
-<p align="left">
+<p align="center">
   <img src="assets/recall.png" alt="Recall" width="500">
 </p>
 
 A preponderância do Recall como métrica principal em sistemas de classificação para diagnóstico médico não é apenas uma preferência estatística, mas uma obrigação clínica fundamentada em princípios médicos, éticos e matemáticos.
 
-[Artigo no LinkedIn.](https://www.linkedin.com/pulse/algoritmo-apriori-desbloqueando-padr%C3%B5es-ocultos-em-de-del-dotore-5jsle/?trackingId=hX0rHAzjFIMv2gUo7VWvww%3D%3D) 
+[Artigo no LinkedIn](https://www.linkedin.com/pulse/recall-a-m%C3%A9trica-chave-em-modelos-de-classifica%C3%A7%C3%A3o-reinaldo-del-dotore/)
 
-<p align="left">
-  <img src="assets/linha_400px.png" alt="Linha 400px"width="500"height="1">
-</p>
+---
 
-<br>
-<br>
+### 4.7. 📖 A função Softmax - transformando valores em probabilidades
 
-4.7. 📖 A função Softmax - transformando valores em probabilidades: artigo no LinkedIn.<br>
-
-<br>
-
-<p align="left">
+<p align="center">
   <img src="assets/softmax.png" alt="Esquema de Rede Neural Convolucional" width="500">
 </p>
 
-Essencialmente, a função Softmax transforma um vetor de números reais em uma distribuição de probabilidades. Ela parte de valores que podem ser muito distantes entre si (positivos ou negativos) e converte em valores entre 0 e 1, fazendo com que a soma de todos os valores seja exatamente 1 (ou 100%).
+A função Softmax transforma um vetor de números reais em uma distribuição de probabilidades, convertendo valores positivos e negativos em valores entre 0 e 1, de forma que a soma seja 1 (ou 100%).
 
-[Artigo completo.](https://www.linkedin.com/pulse/fun%C3%A7%C3%A3o-softmax-transformando-valores-em-reinaldo-del-dotore-teypf/?trackingId=IPKKN704W6iaB93onmkoOA%3D%3D) 
+[Artigo completo](https://www.linkedin.com/pulse/fun%C3%A7%C3%A3o-softmax-transformando-valores-em-reinaldo-del-dotore-teypf/?trackingId=IPKKN704W6iaB93onmkoOA%3D%3D)
 
-4.8. 🌐 Site institucional do Rotary Club da Guarda.<br>
+---
 
-<br>
+### 4.8. 🌐 Site institucional do Rotary Club da Guarda
 
-<p align="left">
-  <img src="assets/rotary.jpg" alt="Print da páginia inicial do site" width="500">
+<p align="center">
+  <img src="assets/rotary.jpg" alt="Print da página inicial do site" width="500">
 </p>
 
 Como parte dos meus estudos sobre desenvolvimento web, criei o site institucional do Rotary Club da Guarda, utilizando apenas HTML, CSS e JavaScript.
 
-[Site completo](https://rotaryclubguarda.org/) 
-
-4.9. ☁️ Infraestrutura como Código na AWS (Terraform)
-Primeiro projeto público voltado para Cloud e DevOps, criando uma infraestrutura completa na AWS — EC2, Security Group e S3 — totalmente automatizada via Terraform.
-[🔗 Repositório no GitHub](https://github.com/deldotore-r/aws-basic-infra-terraform)
-<br>
-
-  <img src="assets/terraform_plan.png" alt="Recall" width="500">
-
-
-
-<br>
-<br>
-
-## 5. Projetos de trabalho:
-
-<br>
-<br>
-
-5.1. 🤖 Automação na Área da Saúde.<br>
-
--  Cliente: Confidencial (projeto privado).<br>
--  Ferramentas: n8n, Python, Supabase.<br>
--  Escopo: detecção em tempo real de inconsistências em bancos de dados.
-
-Desenvolvimento de workflow que detecta em tempo real lançamentos inconsistentes em banco de dados, inconsistências que potencialmente interferem no resultado da empresa.
-
-<br>
-
-<p align="left">
-  <img src="assets/n8n.png" alt="Técnicas de seleção de hiperparâmetros" width="500">
-</p>
-
-<br>
-<br>
-<br>
-
+[Site completo](https://rotaryclubguarda.org/)
 
 ---
 
+### 4.9. ☁️ Infraestrutura como Código na AWS (Terraform)
 
-<br>
+<p align="center">
+  <img src="assets/terraform_plan.png" alt="Terraform Plan" width="500">
+</p>
+
+Primeiro projeto público voltado para Cloud e DevOps, criando uma infraestrutura completa na AWS — EC2, Security Group e S3 — totalmente automatizada via Terraform.  
+
+[🔗 Repositório no GitHub](https://github.com/deldotore-r/aws-basic-infra-terraform)
+
+---
+
+## 5. Projetos de trabalho
+
+Projetos reais desenvolvidos sob demanda, voltados à automação, integração de dados e eficiência operacional. Por questões de confidencialidade, detalhes técnicos sensíveis são omitidos.
+
+### 5.1. 🤖 Automação na Área da Saúde
+
+- **Cliente:** Confidencial (projeto privado)  
+- **Ferramentas:** n8n, Python, Supabase  
+- **Escopo:** detecção em tempo real de inconsistências em bancos de dados  
+
+Desenvolvimento de workflow que detecta lançamentos inconsistentes em tempo real, que potencialmente interferem nos resultados da empresa.
+
+<p align="center">
+  <img src="assets/n8n.png" alt="Workflow n8n" width="500">
+</p>
+
+---
 
 ## Como me encontrar
 
-
 <div align="left">
-
   <a href="https://github.com/deldotore-r"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/reinaldo-del-dotore"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&#8202;
-  <a href="mailto:deldotore@gmail.com"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&#8202;
- 
-  
-
+  <a href="https://linkedin.com/in/reinaldo-del-dotore"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:deldotore@gmail.com"><img src="https://img.shields.io/badge/Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-<br>
-<br>
+---
+
 <p align="center">
   <img src="assets/lifelong_learning.png" alt="Lifelong Learning" width="400">
 </p>
-
