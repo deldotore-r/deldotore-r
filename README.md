@@ -229,6 +229,9 @@ Como parte dos meus estudos sobre desenvolvimento web, criei o site instituciona
 4.9. ☁️ Infraestrutura como Código na AWS (Terraform)
 Primeiro projeto público voltado para Cloud e DevOps, criando uma infraestrutura completa na AWS — EC2, Security Group e S3 — totalmente automatizada via Terraform.
 [🔗 Repositório no GitHub](https://github.com/deldotore-r/aws-basic-infra-terraform)
+<br>
+
+  <img src="assets/recall.png" alt="Recall" width="500">
 
 
 <br>
