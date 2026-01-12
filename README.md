@@ -38,7 +38,7 @@ Provisionamento de infraestrutura como código com foco em **reprodutibilidade, 
 - Ambientes versionados e replicáveis.
 - Base para práticas de confiabilidade e escalabilidade.
 
-[📂 Ver repositório](LINK_PARA_O_REPOSITORIO_AWS)
+[📂 Ver repositório](https://github.com/deldotore-r/rotary-infra-aws)
 
 ---
 
