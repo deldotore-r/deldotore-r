@@ -1,60 +1,78 @@
 # Reinaldo Del Dotore
-### Cloud | DevOps | Infraestrutura como Código
+### Cloud / Infra / DevOps | Automação | SRE (Júnior)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reinaldo_Del_Dotore-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/reinaldo-del-dotore/)
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deldotore@gmail.com)
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre
 
-Profissional em transição de carreira após **30 anos de experiência em liderança e gestão de processos críticos** na área militar. Atualmente, aplico essa bagagem de disciplina e eficiência operacional na tecnologia, com foco em **Cloud Computing, DevOps e Automação**.
+Profissional de **Tecnologia da Informação** com foco em **infraestrutura, cloud e automação**, atuando em projetos práticos de **SRE / DevOps em nível júnior**.
 
-Minha abordagem técnica é voltada para a resolução de problemas reais: crio infraestruturas resilientes, automatizo fluxos de dados e otimizo operações para garantir escalabilidade e segurança.
+Experiência em **Linux, AWS, Docker, Terraform, automação de tarefas e infraestrutura como código**, com interesse especial em **confiabilidade, observabilidade, padronização de ambientes e redução de falhas manuais**.
+
+Background sólido em ambientes **críticos e altamente regulados**, trazendo forte orientação a **processos, documentação, disciplina operacional e melhoria contínua**, hoje aplicadas diretamente em contextos técnicos e de operação de sistemas.
 
 ---
 
-## 🛠️ Tech Stack Principal
+## 🛠️ Stack Técnica
 
 | Área | Tecnologias |
 | :--- | :--- |
-| **Cloud & IaC** | AWS, Terraform, Ansible, Docker |
-| **Automação & ETL** | Python, n8n, Apache Airflow |
-| **Dados & Backend** | SQL, Supabase, PostgreSQL |
+| **Sistemas & Cloud** | Linux, Shell Script (Bash), AWS |
+| **Infra as Code & Containers** | Terraform, Docker |
+| **Automação & Orquestração** | Python, n8n, Apache Airflow |
+| **Dados** | SQL, PostgreSQL, Supabase |
+| **Versionamento** | Git, GitHub |
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos
 
 ### 1. Infraestrutura Automatizada na AWS (IaC)
-*Tecnologias: Terraform, AWS (EC2, S3, VPC, Security Groups)*
+**Tecnologias:** Terraform, AWS (EC2, S3, VPC, Security Groups)
 
-Projeto focado em provisionamento de infraestrutura como código. O objetivo foi eliminar configurações manuais e garantir um ambiente reprodutível e versionado.
-* **Feito:** Automação completa da criação de instâncias EC2, configuração de Security Groups e Buckets S3.
-* **Resultado:** Redução do tempo de setup e padronização de ambientes de desenvolvimento (`dev`).
+Provisionamento de infraestrutura como código com foco em **reprodutibilidade, padronização e redução de intervenção manual**.
+- Criação automatizada de recursos AWS.
+- Ambientes versionados e replicáveis.
+- Base para práticas de confiabilidade e escalabilidade.
 
-[📂 Ver Repositório](LINK_PARA_O_REPOSITORIO_AWS)
-
-### 2. Automação de Inconsistências (Setor de Saúde)
-*Tecnologias: n8n, Python, Supabase*
-
-*Projeto real desenvolvido sob demanda (Confidencial).*
-Desenvolvimento de um workflow de monitoramento contínuo para detectar falhas em lançamentos financeiros/operacionais em tempo real.
-* **Desafio:** Identificar erros humanos em bancos de dados que causavam prejuízo financeiro.
-* **Solução:** Pipeline automatizado que cruza dados, valida regras de negócio e notifica a gestão imediatamente via dashboard/alerta.
-
-### 3. Detector Forense de Imagens (Lei de Benford)
-*Tecnologias: Python, Análise Estatística*
-
-Uma aplicação técnica que utiliza princípios matemáticos (Lei de Benford) para identificar manipulações artificiais em arquivos de imagem.
-* **Destaque:** Demonstração de capacidade analítica e manipulação avançada de dados com Python fora do contexto convencional.
-
-[📂 Ver Repositório](LINK_PARA_O_REPOSITORIO_BENFORD)
+[📂 Ver repositório](LINK_PARA_O_REPOSITORIO_AWS)
 
 ---
 
-## 📚 Educação Contínua
-Acredito que na Era da IA, o aprendizado constante é a única vantagem competitiva sustentável. Mantenho estudos ativos em **Engenharia de Dados** e **Arquitetura de Soluções Cloud**.
+### 2. Automação de Detecção de Inconsistências Operacionais
+**Tecnologias:** n8n, Python, Supabase  
+*Projeto real – detalhes sensíveis omitidos.*
+
+Workflow automatizado para **monitoramento contínuo de dados**, identificação de inconsistências e notificação imediata.
+- Cruzamento de dados e validação de regras.
+- Redução de erros manuais.
+- Apoio à tomada de decisão operacional.
 
 ---
+
+### 3. Análise Forense de Imagens com Python (Lei de Benford)
+**Tecnologias:** Python, Estatística
+
+Aplicação para detecção de padrões anômalos em imagens digitais com base na Lei de Benford.
+- Ênfase em análise de dados e raciocínio analítico.
+- Demonstra capacidade técnica fora de cenários triviais.
+
+[📂 Ver repositório](LINK_PARA_O_REPOSITORIO_BENFORD)
+
+---
+
+## 📚 Aprendizado Contínuo
+
+Estudos ativos em **SRE, DevOps, Cloud Computing e Observabilidade**, com foco em:
+- alta disponibilidade,
+- automação,
+- monitoramento,
+- boas práticas operacionais.
+
+---
+
 *Reinaldo Del Dotore © 2025*
+
