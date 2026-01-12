@@ -56,6 +56,22 @@ Pipeline operacional automatizado utilizando Apache Airflow, executando em ambie
 
 ---
 
+### 3. Smart Backup for Source Code (Linux / WSL)
+Script em Shell para backups automatizados e eficientes de ambientes de desenvolvimento, com foco em redução de volume, retenção controlada e execução segura.
+
+**Destaques técnicos:**
+- Uso de tar com exclusões inteligentes (node_modules, .terraform, etc.).
+- Automação via cron.
+- Controle de retenção de backups.
+- Respeito a permissões e princípio do menor privilégio.
+- Redução real de volume de backup (>99%).
+
+
+[Ver repositório](https://github.com/deldotore-r/smart-backup-wsl)
+
+
+---
+
 ## 📚 Aprendizado Contínuo
 
 Estudos ativos em **SRE, DevOps, Cloud Computing AWS), Linux e Observabilidade**, com foco em:
