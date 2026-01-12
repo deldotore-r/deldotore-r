@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Sobre
+## Sobre
 
 Profissional de **Tecnologia da Informação** com foco em **infraestrutura, cloud e automação**, atuando em projetos práticos de **SRE / DevOps em nível júnior**.
 
@@ -16,7 +16,7 @@ Background sólido em ambientes **críticos e altamente regulados**, trazendo fo
 
 ---
 
-## 🛠️ Stack Técnica
+## Stack Técnica
 
 | Área | Tecnologias |
 | :--- | :--- |
@@ -28,7 +28,7 @@ Background sólido em ambientes **críticos e altamente regulados**, trazendo fo
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
 ### 1. Infraestrutura Automatizada na AWS (IaC)
 **Tecnologias:** Terraform, AWS (EC2, S3, VPC, Security Groups)
@@ -38,24 +38,27 @@ Provisionamento de infraestrutura como código com foco em **reprodutibilidade, 
 - Ambientes versionados e replicáveis.
 - Base para práticas de confiabilidade e escalabilidade.
 
-[📂 Ver repositório](https://github.com/deldotore-r/rotary-infra-aws)
+[Ver repositório](https://github.com/deldotore-r/rotary-infra-aws)
 
 ---
+### 2. Airflow-Orchestrated Operational Automation
+Pipeline operacional automatizado utilizando Apache Airflow, executando em ambiente containerizado com Docker, com foco em confiabilidade, idempotência e observabilidade.
 
-### 2. Automação de Detecção de Inconsistências Operacionais
-**Tecnologias:** n8n, Python, Supabase  
-*Projeto real – detalhes sensíveis omitidos.*
+**Destaques técnicos:**
+- DAG com etapas isoladas e reexecutáveis.
+- Controle de duplicidade por hash determinístico.
+- Logs completos para troubleshooting.
+- Ambiente totalmente reproduzível via Docker Compose.
 
-Workflow automatizado para **monitoramento contínuo de dados**, identificação de inconsistências e notificação imediata.
-- Cruzamento de dados e validação de regras.
-- Redução de erros manuais.
-- Apoio à tomada de decisão operacional.
+➡️ Projeto aplicado a problema real de automação operacional, substituindo controles manuais suscetíveis a erro.
+
+[Ver repositório](https://github.com/deldotore-r/airflow)
 
 ---
 
 ## 📚 Aprendizado Contínuo
 
-Estudos ativos em **SRE, DevOps, Cloud Computing e Observabilidade**, com foco em:
+Estudos ativos em **SRE, DevOps, Cloud Computing AWS), Linux e Observabilidade**, com foco em:
 - alta disponibilidade,
 - automação,
 - monitoramento,
