@@ -53,17 +53,6 @@ Workflow automatizado para **monitoramento contínuo de dados**, identificação
 
 ---
 
-### 3. Análise Forense de Imagens com Python (Lei de Benford)
-**Tecnologias:** Python, Estatística
-
-Aplicação para detecção de padrões anômalos em imagens digitais com base na Lei de Benford.
-- Ênfase em análise de dados e raciocínio analítico.
-- Demonstra capacidade técnica fora de cenários triviais.
-
-[📂 Ver repositório](LINK_PARA_O_REPOSITORIO_BENFORD)
-
----
-
 ## 📚 Aprendizado Contínuo
 
 Estudos ativos em **SRE, DevOps, Cloud Computing e Observabilidade**, com foco em:
