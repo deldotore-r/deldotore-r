@@ -1,86 +1,48 @@
 # Reinaldo Del Dotore
-### Cloud / Infra / DevOps | Automação | SRE (Júnior)
+### Cloud Infrastructure | DevOps | SRE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reinaldo_Del_Dotore-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/reinaldo-del-dotore/)
 [![Email](https://img.shields.io/badge/Email-Contato-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deldotore@gmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-deldotore.com-0ea5e9?style=flat&logo=google-cloud)](https://deldotore.com)
 
 ---
 
-## Sobre
+## 👨‍💻 Perfil Profissional
+Especialista em infraestrutura de TI com foco em **DevOps e Cloud Computing**. Com três décadas de experiência em ambientes de alta criticidade e regulação, trago um diferencial estratégico baseado em rigor processual, disciplina operacional e documentação técnica impecável.
 
-Profissional de **Tecnologia da Informação** com foco em **infraestrutura, cloud e automação**, atuando em projetos práticos de **SRE / DevOps em nível júnior**.
-
-Experiência em **Linux, AWS, Docker, Terraform, automação de tarefas e infraestrutura como código**, com interesse especial em **confiabilidade, observabilidade, padronização de ambientes e redução de falhas manuais**.
-
-Background sólido em ambientes **críticos e altamente regulados**, trazendo forte orientação a **processos, documentação, disciplina operacional e melhoria contínua**, hoje aplicadas diretamente em contextos técnicos e de operação de sistemas.
+Atualmente, dedico-me a construir arquiteturas resilientes, automatizar ciclos de entrega e implementar o conceito de **Infraestrutura como Código (IaC)** para garantir ambientes escaláveis e seguros.
 
 ---
 
-## Stack Técnica
+## 🛠️ Expertise Técnica
 
-| Área | Tecnologias |
-| :--- | :--- |
-| **Sistemas & Cloud** | Linux, Shell Script (Bash), AWS |
-| **Infra as Code & Containers** | Terraform, Docker |
-| **Automação & Orquestração** | Python, n8n, Apache Airflow |
-| **Dados** | SQL, PostgreSQL, Supabase |
-| **Versionamento** | Git, GitHub |
+* **Cloud:** AWS (S3, CloudFront, IAM, VPC, EC2)
+* **Infrastructure as Code:** Terraform
+* **CI/CD:** GitHub Actions
+* **Operating Systems:** Administração de Linux (Debian, Ubuntu, Xubuntu)
+* **Automation:** Shell Scripting (Bash) & Python
 
 ---
 
-## Projetos
+## 🚀 Projetos em Destaque
 
-### 1. Infraestrutura Automatizada na AWS (IaC)
-**Tecnologias:** Terraform, AWS (EC2, S3, VPC, Security Groups)
+### [Full CI/CD Pipeline: deldotore.com](https://github.com/deldotore-r/deldotore_site)
+Implementação de uma esteira completa de entrega contínua (Continuous Deployment).
+* **Arquitetura:** Serverless (S3 + CloudFront CDN).
+* **Automação:** GitHub Actions com invalidação programática de cache global.
+* **Segurança:** Gestão de políticas IAM (Least Privilege) e proteção de secrets.
 
-Provisionamento de infraestrutura como código com foco em **reprodutibilidade, padronização e redução de intervenção manual**.
-- Criação automatizada de recursos AWS.
-- Ambientes versionados e replicáveis.
-- Base para práticas de confiabilidade e escalabilidade.
-
-[Ver repositório](https://github.com/deldotore-r/rotary-infra-aws)
-
----
-### 2. Airflow-Orchestrated Operational Automation
-Pipeline operacional automatizado utilizando Apache Airflow, executando em ambiente containerizado com Docker, com foco em confiabilidade, idempotência e observabilidade.
-
-**Destaques técnicos:**
-- DAG com etapas isoladas e reexecutáveis.
-- Controle de duplicidade por hash determinístico.
-- Logs completos para troubleshooting.
-- Ambiente totalmente reproduzível via Docker Compose.
-
-➡️ Projeto aplicado a problema real de automação operacional, substituindo controles manuais suscetíveis a erro.
-
-[Ver repositório](https://github.com/deldotore-r/airflow)
+### [AWS Infrastructure as Code](https://github.com/deldotore-r/rotary-infra-aws)
+Provisionamento de recursos na nuvem com foco em reprodutibilidade e conformidade.
+* Uso de **Terraform** para criação de redes (VPCs), instâncias e segurança.
+* Padronização de ambientes através de infraestrutura versionada.
 
 ---
 
-### 3. Smart Backup for Source Code (Linux / WSL)
-Script em Shell para backups automatizados e eficientes de ambientes de desenvolvimento, com foco em redução de volume, retenção controlada e execução segura.
-
-**Destaques técnicos:**
-- Uso de tar com exclusões inteligentes (node_modules, .terraform, etc.).
-- Automação via cron.
-- Controle de retenção de backups.
-- Respeito a permissões e princípio do menor privilégio.
-- Redução real de volume de backup (>99%).
-
-
-[Ver repositório](https://github.com/deldotore-r/smart-backup-wsl)
-
+## 📚 Aprendizado Ativo (Roadmap 2026)
+* **Containers & Orquestração:** Docker e Kubernetes (K8s).
+* **Observabilidade:** Fundamentos de Prometheus e Grafana.
+* **Data Ops:** Orquestração de workflows com Apache Airflow.
 
 ---
-
-## 📚 Aprendizado Contínuo
-
-Estudos ativos em **SRE, DevOps, Cloud Computing AWS), Linux e Observabilidade**, com foco em:
-- alta disponibilidade,
-- automação,
-- monitoramento,
-- boas práticas operacionais.
-
----
-
-*Reinaldo Del Dotore © 2025*
-
+*Reinaldo Del Dotore © 2026*
