@@ -8,41 +8,51 @@
 ---
 
 ## 👨‍💻 Perfil Profissional
-Especialista em infraestrutura de TI com foco em **DevOps e Cloud Computing**. Com três décadas de experiência em ambientes de alta criticidade e regulação, trago um diferencial estratégico baseado em rigor processual, disciplina operacional e documentação técnica impecável.
+Profissional de infraestrutura de TI em transição para **DevOps e SRE**. Trago um background de três décadas em ambientes críticos e altamente regulados, onde a **disciplina operacional, rigor processual e documentação técnica** são os pilares do sucesso da missão.
 
-Atualmente, dedico-me a construir arquiteturas resilientes, automatizar ciclos de entrega e implementar o conceito de **Infraestrutura como Código (IaC)** para garantir ambientes escaláveis e seguros.
+Atualmente, foco em construir arquiteturas resilientes na nuvem, automatizar ciclos de entrega (CI/CD) e gerenciar infraestrutura como código (IaC), sempre priorizando a segurança e a previsibilidade operacional.
 
 ---
 
 ## 🛠️ Expertise Técnica
 
-* **Cloud:** AWS (S3, CloudFront, IAM, VPC, EC2)
-* **Infrastructure as Code:** Terraform
-* **CI/CD:** GitHub Actions
-* **Operating Systems:** Administração de Linux (Debian, Ubuntu, Xubuntu)
-* **Automation:** Shell Scripting (Bash) & Python
+* **Cloud:** AWS (S3, CloudFront, IAM, VPC, EC2).
+* **Infrastructure as Code:** Terraform.
+* **CI/CD:** GitHub Actions.
+* **Linux:** Administração de sistemas Debian-based (Ubuntu/Xubuntu), Shell Scripting (Bash).
+* **Automação:** Python para scripts operacionais e automação de tarefas.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### [Full CI/CD Pipeline: deldotore.com](https://github.com/deldotore-r/deldotore_site)
-Implementação de uma esteira completa de entrega contínua (Continuous Deployment).
-* **Arquitetura:** Serverless (S3 + CloudFront CDN).
-* **Automação:** GitHub Actions com invalidação programática de cache global.
-* **Segurança:** Gestão de políticas IAM (Least Privilege) e proteção de secrets.
+### 🌐 [Full CI/CD Pipeline: deldotore.com](https://github.com/deldotore-r/deldotore_site)
+**Foco:** *Continuous Deployment & Cloud Networking*
+Esteira de entrega automatizada para o meu portfólio pessoal.
+- Arquitetura serverless utilizando **S3** e **CloudFront CDN**.
+- Pipeline em **GitHub Actions** com invalidação programática de cache e gestão de *secrets*.
+- Implementação de segurança via políticas **IAM** restritas (Least Privilege).
 
-### [AWS Infrastructure as Code](https://github.com/deldotore-r/rotary-infra-aws)
-Provisionamento de recursos na nuvem com foco em reprodutibilidade e conformidade.
-* Uso de **Terraform** para criação de redes (VPCs), instâncias e segurança.
-* Padronização de ambientes através de infraestrutura versionada.
+### 🏗️ [AWS Infrastructure with Terraform](https://github.com/deldotore-r/rotary-infra-aws)
+**Foco:** *Infrastructure as Code (IaC)*
+Provisionamento automatizado de componentes fundamentais na AWS.
+- Definição de **VPC, Subnets e Security Groups** de forma reprodutível.
+- Deploy de instâncias EC2 configuradas via código.
+- Demonstração de padronização e controle de versão de infraestrutura.
+
+### 💾 [Smart Backup for WSL/Linux](https://github.com/deldotore-r/smart-backup-wsl)
+**Foco:** *Linux Automation & Efficiency*
+Solução em Shell Script para automação de backups em ambientes de desenvolvimento.
+- Lógica de exclusão inteligente (ignora `node_modules`, `.terraform`, etc) para otimização de storage.
+- Implementação de retenção controlada e logs de execução.
+- Redução de volume de backup em mais de 90% em labs locais.
 
 ---
 
-## 📚 Aprendizado Ativo (Roadmap 2026)
+## 📚 Roadmap & Estudos Ativos (2026)
 * **Containers & Orquestração:** Docker e Kubernetes (K8s).
-* **Observabilidade:** Fundamentos de Prometheus e Grafana.
-* **Data Ops:** Orquestração de workflows com Apache Airflow.
+* **Observabilidade:** Monitoramento com Prometheus e Grafana.
+* **Certificação:** Em preparação para AWS Cloud Practitioner / Solutions Architect.
 
 ---
 *Reinaldo Del Dotore © 2026*
