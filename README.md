@@ -1,140 +1,119 @@
 # Reinaldo Del Dotore
 ### Cloud Infrastructure | DevOps | SRE
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reinaldo_Del_Dotore-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/reinaldo-del-dotore/)
-[![Email](https://img.shields.io/badge/Email-Contato-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deldotore@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deldotore@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-deldotore.com-0ea5e9?style=flat&logo=google-cloud)](https://deldotore.com)
 
 ---
 
 ## 👨‍💻 Professional Profile
 
-Infrastructure professional transitioning in a structured manner to **DevOps and SRE**, with **30 years of experience in mission-critical and highly regulated environments**. My background was built in contexts where **operational discipline, reliability, traceability, and rigorous technical documentation** are not differentiators — they are mandatory.
+IT infrastructure professional transitioning to **DevOps and SRE**. I bring three decades of experience in critical and highly regulated environments, where **operational discipline, process rigor, and technical documentation** are the pillars of mission success.
 
-I am currently focused on designing and operating **resilient cloud architectures**, **automating CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **observability**, always prioritizing operational predictability, security, and risk reduction.
+Currently focused on building resilient cloud architectures, automating delivery cycles (CI/CD), and managing infrastructure as code (IaC), always prioritizing security and operational predictability.
 
 ---
 
 ## 🛠️ Technical Expertise
 
-- **Cloud (AWS):** S3, CloudFront, IAM, VPC, EC2.
-- **Infrastructure as Code:** Terraform (modular structure, versioning, reproducibility).
-- **CI/CD:** GitHub Actions, GitLab CI/CD.
-- **Containers:** Docker, Docker Compose.
-- **Linux:** Debian-based systems administration (Ubuntu/Xubuntu), Bash scripting.
-- **Automation:** Python for operational scripts and task automation.
-- **Observability (active study):** Prometheus, Grafana.
+* **Cloud:** AWS (S3, CloudFront, IAM, VPC, EC2).
+* **Infrastructure as Code:** Terraform.
+* **CI/CD:** GitHub Actions, GitLab CI/CD.
+* **Containers & Orchestration:** Docker, Docker Compose, Kubernetes (Kind).
+* **Data Orchestration:** Apache Airflow.
+* **Linux:** Debian-based systems administration (Ubuntu/Xubuntu), Shell Scripting (Bash).
+* **Automation:** Python (Pandas, Plotly, Pendulum) for data pipelines and operational scripts.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 Full CI/CD Pipeline — **deldotore.com**
-🔗 https://github.com/deldotore-r/deldotore_site
-
-**Focus:** *Continuous Deployment, Cloud Networking & Security*
-
-End-to-end continuous delivery pipeline for my personal portfolio.
-
-- **Serverless architecture** using **Amazon S3 + CloudFront (CDN)**.
-- **GitHub Actions** pipeline with automated deployment, programmatic cache invalidation, and secure *secrets* management.
-- **IAM policies** enforcing *Least Privilege*.
-- Architecture designed for operational simplicity and low cost.
-
----
-
-### 🏗️ AWS Infrastructure with Terraform
-🔗 https://github.com/deldotore-r/rotary-infra-aws
-
-**Focus:** *Infrastructure as Code (IaC) & Standardization*
-
-Automated provisioning of foundational AWS infrastructure.
-
-- Reproducible definition of **VPC, Subnets, and Security Groups**.
-- **EC2** instance deployment fully managed via code.
-- Clear separation of `main.tf`, `variables.tf`, and `outputs.tf`.
-- Strong emphasis on version control, readability, and change management.
-
----
-
-### 💶 Airflow Exchange Rate Pipeline — **EUR / BRL**
-🔗 https://gitlab.com/deldotore-r/airflow-cambio-pipeline
-
+### 💶 [Airflow Exchange Rate Pipeline – EUR/BRL](https://gitlab.com/deldotore-r/airflow-cambio-pipeline)
 **Focus:** *Data Engineering, Orchestration & Automated Publishing*
 
-Automated data pipeline that monitors the **EUR/BRL exchange rate**, covering business hours in **Portugal and Brazil**. The architecture emphasizes scalability, process decoupling, and fully automated publication of results.
+Automated data pipeline monitoring the **EUR/BRL exchange rate**, covering business hours in **Portugal and Brazil**. Architecture focused on scalability, process decoupling, and fully automated publishing.
 
-**Architecture & Data Flow**
+**Architecture & Data Flow:**
+- **Ingestion (Extract):** Dedicated DAG collects data from **AwesomeAPI** every 5 minutes between **09:00 (Lisbon)** and **18:00 (Brasília / 21:00 Lisbon)**, persisting to CSV dataset.
+- **Processing & Visualization (Transform/Load):** Independent DAG processes data daily using **Pandas** and **Plotly**, generating interactive HTML dashboard.
+- **Automated Deploy (CI/CD):** Generated report is published via Git, triggering **GitLab CI/CD** pipeline that publishes to **GitLab Pages**.
 
-- **Ingestion (Extract):** A dedicated DAG collects data from **AwesomeAPI** every 5 minutes between **09:00 (Lisbon)** and **18:00 (Brasília / 21:00 Lisbon)**, persisting the data into a CSV dataset.
-- **Processing & Visualization (Transform / Load):** A second, independent DAG processes the data daily using **Pandas** and **Plotly**, generating an interactive HTML dashboard.
-- **Automated Deploy (CI/CD):** The generated report is pushed via Git, triggering a **GitLab CI/CD** pipeline that publishes the dashboard to **GitLab Pages**.
+**Tech Stack:**
+- Apache Airflow 2.8.1 (LocalExecutor), Docker & Docker Compose
+- Python 3.11, Pandas, Plotly, Pendulum (timezone management)
+- PostgreSQL (Airflow metadatabase), GitLab CI/CD, GitLab Pages
 
-**Technologies**
-
-- **Orchestration:** Apache Airflow 2.8.1 (LocalExecutor)
-- **Containerization:** Docker & Docker Compose
-- **Language:** Python 3.11
-- **Libraries:** Pandas, Plotly, Pendulum (timezone management)
-- **Infrastructure:** PostgreSQL (Airflow metadatabase), GitLab CI/CD, GitLab Pages
-
-**Technical Highlights**
-
+**Technical Highlights:**
 - **Decoupled DAGs:** Clear separation between high-frequency ingestion and batch reporting, improving resilience and resource efficiency.
-- **Secure Automation with Deploy Keys:** Exclusive SSH deploy keys mapped into Docker volumes, enabling secure and automated `git push` operations without exposing personal credentials.
-- **Timezone Management:** Robust configuration using **Pendulum** to synchronize workflows across Lisbon and Brasília timezones.
-- **Custom Health Checks:** Docker container health monitoring based on internal **Airflow SchedulerJob** processes.
+- **Secure Automation with Deploy Keys:** Exclusive SSH keys mapped in Docker volumes, enabling automated `git push` without exposing personal credentials.
+- **Timezone Management:** Robust configuration using **Pendulum** to synchronize workflows between Lisbon and Brasília.
+- **Custom Health Checks:** Container health monitoring based on internal **Airflow SchedulerJob** processes.
 
-**Live Dashboard**
+### 🌐 [Full CI/CD Pipeline: deldotore.com](https://github.com/deldotore-r/deldotore_site)
+**Focus:** *Continuous Deployment & Cloud Networking*
 
-🔗 Access the Exchange Rate Dashboard on GitLab Pages
+Automated delivery pipeline for my personal portfolio.
+- Serverless architecture using **S3** and **CloudFront CDN**.
+- **GitHub Actions** pipeline with programmatic cache invalidation and secrets management.
+- Security implementation via restricted **IAM** policies (Least Privilege).
+- 31 commits demonstrating iterative evolution and continuous improvements.
 
----
+### 🏗️ [AWS Self-Healing Web Server (IaC)](https://github.com/deldotore-r/rotary-infra-aws)
+**Focus:** *Infrastructure as Code & Cloud Security*
 
-### 🐳 Airflow Pipeline with Docker Compose
-🔗 https://github.com/deldotore-r/airflow-cambio-pipeline
+Automated AWS infrastructure provisioning for the Rotary Club da Guarda institutional website.
+- **Complete VPC** with public subnets, Internet Gateway, and Route Tables.
+- **Security Groups** with dynamic rules: SSH restricted to administrator's IP (obtained via `data "http"`).
+- **EC2 with user_data.sh:** Automated deployment via `git clone` and Nginx configuration.
+- **S3 Backend** with versioning, encryption, and native locking (no DynamoDB).
+- **Elastic IP** for fixed public address.
+- Clear demonstration of complete infrastructure bootstrapping.
 
-**Focus:** *Containers, Local Orchestration & Data Pipelines*
+### 🐳 [Kubernetes Local Automation with Kind](https://github.com/deldotore-r/kubernetes_01)
+**Focus:** *Container Orchestration & Automation*
 
-Local **Apache Airflow** environment built with **Docker Compose**, aimed at hands-on studies of pipeline orchestration.
+Microservices orchestration in local Kubernetes environment using **Kind** and complete automation via **Bash Scripts**.
+- **"One-Command-Setup":** Bash script prepares cluster, manages permissions, and deployments.
+- **High Availability:** 2 Nginx replicas with `limits` and `requests` configuration.
+- **Service Discovery:** Exposure via Service (ClusterIP) with Port-Forward.
+- Clear layer separation (k8s vs scripts) and cleanup script.
 
-- Containerized stack with isolated services configured via environment variables.
-- Troubleshooting and resolution of real-world issues related to **permissions, health checks, and service initialization**.
-- Strong focus on operational understanding of containers, beyond superficial usage.
+### 🔧 [AWS Basic Infrastructure with Terraform](https://github.com/deldotore-r/aws-basic-infra-terraform)
+**Focus:** *IaC Fundamentals & Best Practices*
 
----
+Basic AWS infrastructure for learning, with complete visual documentation.
+- Provisioning of **EC2, Security Groups, and S3**.
+- Parameterized variables via `terraform.tfvars`.
+- Screenshots of complete cycle: `init`, `validate`, `plan`, `apply`, `destroy`.
+- Visual confirmation in AWS Console before and after destroy.
 
-### 💾 Smart Backup for WSL / Linux
-🔗 https://github.com/deldotore-r/smart-backup-wsl
+### 🔄 [GitLab CI/CD – Static Site Deployment](https://github.com/deldotore-r/gitlab)
+**Focus:** *CI/CD Pipeline & GitLab Automation*
 
-**Focus:** *Linux Automation & Operational Efficiency*
+GitLab CI/CD pipeline demonstration for automated static site build and deployment.
+- **2-stage Pipeline:** Build (validation and artifacts) and Deploy (main branch only).
+- **Docker** for process containerization.
+- Focus on versioning best practices and automated processes.
 
-**Bash** script for intelligent backup automation in development environments.
+### 💾 [Smart Backup for WSL/Linux](https://github.com/deldotore-r/smart-backup-wsl)
+**Focus:** *Linux Automation & Efficiency*
 
-- Smart exclusion of irrelevant directories (`node_modules`, `.terraform`, caches, etc.).
-- Implementation of **controlled retention policies** and **execution logging**.
-- Backup volume reduction exceeding **90%** in lab environments.
-
----
-
-## 📊 Observability — Ongoing Studies
-
-Hands-on project under development using **Prometheus + Grafana**, focused on:
-
-- Service and system metrics collection.
-- Dashboard creation and operational visualization.
-- Introduction to alerting and SLI/SLO concepts.
+Shell Script solution for backup automation in development environments.
+- Intelligent exclusion logic (ignores `node_modules`, `.terraform`, etc.) for storage optimization.
+- Implementation of controlled retention and execution logs.
+- Backup volume reduction over 90% in local labs.
+- Compatible with `cron` for periodic executions.
 
 ---
 
 ## 📚 Roadmap & Active Studies (2026)
 
-- **Containers & Orchestration:** Docker (advanced) and Kubernetes (K8s).
-- **Observability:** Prometheus, Grafana, and SRE fundamentals.
-- **CI/CD:** More advanced pipelines and deployment strategies.
-- **Certifications:** Preparation for **AWS Cloud Practitioner** and **AWS Solutions Architect**.
+* **Containers & Orchestration:** Deep dive into Kubernetes (K8s) and Helm.
+* **Observability:** Monitoring with Prometheus and Grafana.
+* **Data Engineering:** Expansion of Airflow pipelines with database integration.
+* **Certification:** Preparing for AWS Solutions Architect Associate.
+* **DevSecOps:** Integration of security practices in CI/CD pipelines.
 
 ---
 
 *Reinaldo Del Dotore © 2026*
-
