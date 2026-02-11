@@ -28,7 +28,7 @@ Currently focused on building resilient cloud architectures, automating delivery
 
 ## 🚀 Featured Projects
 
-### 💶 [Airflow Exchange Rate Pipeline – EUR/BRL](https://gitlab.com/deldotore-r/airflow-cambio-pipeline)
+<!----### 💶 [Airflow Exchange Rate Pipeline – EUR/BRL](https://gitlab.com/deldotore-r/airflow-cambio-pipeline)
 **Focus:** *Data Engineering, Orchestration & Automated Publishing*
 
 Automated data pipeline monitoring the **EUR/BRL exchange rate**, covering business hours in **Portugal and Brazil**. Architecture focused on scalability, process decoupling, and fully automated publishing.
@@ -47,7 +47,7 @@ Automated data pipeline monitoring the **EUR/BRL exchange rate**, covering busin
 - **Decoupled DAGs:** Clear separation between high-frequency ingestion and batch reporting, improving resilience and resource efficiency.
 - **Secure Automation with Deploy Keys:** Exclusive SSH keys mapped in Docker volumes, enabling automated `git push` without exposing personal credentials.
 - **Timezone Management:** Robust configuration using **Pendulum** to synchronize workflows between Lisbon and Brasília.
-- **Custom Health Checks:** Container health monitoring based on internal **Airflow SchedulerJob** processes.
+- **Custom Health Checks:** Container health monitoring based on internal **Airflow SchedulerJob** processes.--->
 
 ### 🌐 [Full CI/CD Pipeline: deldotore.com](https://github.com/deldotore-r/deldotore_site)
 **Focus:** *Continuous Deployment & Cloud Networking*
