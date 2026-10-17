@@ -1,5 +1,5 @@
 # Reinaldo Del Dotore
-### Cloud Infrastructure | DevOps | SRE
+### Data Platform Engineer | Kubernetes | Airflow | Spark | AWS
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Reinaldo_Del_Dotore-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/reinaldo-del-dotore/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deldotore@gmail.com)
 [![Website](https://img.shields.io/badge/Portfolio-deldotore.com-0ea5e9?style=flat&logo=google-cloud)](https://deldotore.com)
@@ -8,30 +8,62 @@
 
 ## 👨‍💻 Professional Profile
 
-IT infrastructure professional transitioning to **DevOps and SRE**. I bring three decades of experience in critical and highly regulated environments, where **operational discipline, process rigor, and technical documentation** are the pillars of mission success.
+Data Platform Engineer at **COCUS Portugal** since March 2026, on a small team that owns the infrastructure of a production analytics platform on **Amazon EKS**: Airflow, Spark on Kubernetes, Apache Iceberg, Hive Metastore, Dremio, NiFi, RisingWave and Amazon EMR.
 
-Currently focused on building resilient cloud architectures, automating delivery cycles (CI/CD), and managing infrastructure as code (IaC), always prioritizing security and operational predictability.
+My work centers on **incident triage, root-cause investigation and operational tooling**: finding out why something broke, proving it with evidence, and writing it down so the next person doesn't start from zero. Before IT, I served 30 years as an officer in the São Paulo Military Police, where **operational discipline, process rigor and documentation** were part of the job.
 
 ---
 
 ## 🛠️ Technical Expertise
 
-* **Cloud:** AWS (S3, CloudFront, IAM, VPC, EC2).
-* **Infrastructure as Code:** Terraform.
-* **CI/CD:** GitHub Actions, GitLab CI/CD.
-* **Containers & Orchestration:** Docker, Docker Compose, Kubernetes (Kind).
-* **Data Orchestration:** Apache Airflow.
-* **Linux:** Debian-based systems administration (Ubuntu/Xubuntu), Shell Scripting (Bash).
-* **Automation:** Python (Pandas, Plotly, Pendulum) for data pipelines and operational scripts.
+**In production, daily:**
+* **Kubernetes:** Amazon EKS, kubectl, scheduling, autoscaling, persistent volumes and troubleshooting.
+* **Data platform:** Apache Airflow 2.8, Spark on Kubernetes, Apache Iceberg, Hive Metastore, Dremio, NiFi, RisingWave.
+* **AWS:** EKS, EMR, S3, IAM, CloudWatch Logs.
+* **Observability:** Prometheus, Grafana.
+* **Tooling:** Python, Bash and SQL for operations scripts and audits.
+
+**Labs and personal projects:**
+* **IaC & CI/CD:** Terraform, GitHub Actions, GitLab CI/CD.
+* **Containers:** Docker, Docker Compose, Kubernetes (Kind).
+* **Linux:** Ubuntu and Fedora, shell scripting (Bash).
+
+---
+
+## 🏭 Selected Production Work
+
+*Details are generalized and figures rounded to respect client confidentiality.*
+
+### 🧊 Ingestion tasks taking hours, with no errors
+A pipeline kept reporting success while tasks that should take minutes ran for more than four hours. Two years of tiny commits without snapshot expiration had grown the table's **Apache Iceberg** metadata to more than 5,000 times the size of its data.
+- **Evidence:** Iceberg metadata read directly from S3, commit process sampled through `/proc`, commit counts matched against run history in the Airflow metadata database.
+- **Result:** Root cause confirmed; investigation report and remediation plan; a follow-up scan found dozens of tables with the same pattern.
+
+### 🌐 Spark jobs failing seconds after landing on a new node
+Bursts of Spark drivers failed with network timeouts whenever the cluster scaled up. New nodes reported Ready in about 13 seconds, but pod networking took 2 to 3.5 minutes to converge.
+- **Evidence:** Live measurements of new nodes and EKS API server audit logs.
+- **Result:** Root cause confirmed; four mitigation options documented for the platform decision.
+
+### 🧹 Daily platform audit
+A written morning protocol of 21 checks, backed by a dependency-free **Python** CLI (kubectl and AWS CLI only) that finds waste and stuck work across environments: crash-looping and OOM-killed pods, zombie Spark pods, orphaned EMR clusters, stuck DAG runs and orphaned Hive Metastore locks.
+- **Result:** Found, among other things, idle EMR clusters with 18 instances and no auto-termination.
 
 ---
 
 ## 🚀 Featured Projects
 
+### 📊 [Airflow Monitoring Stack (Prometheus & Grafana)](https://github.com/deldotore-r/airflow-monitoring-stack)
+**Focus:** *Observability*
+
+Monitoring stack for Apache Airflow: Airflow sends StatsD metrics to an exporter scraped by **Prometheus**, and **Grafana** shows scheduler heartbeat, task throughput and task latency.
+- Value mapping for an online/offline scheduler heartbeat panel.
+- Task latency from `rate()` over duration sums and counts, instead of historical averages.
+- Runs locally with **Docker Compose**.
+
 ### 💶 [Airflow Exchange Rate Pipeline – EUR/BRL](https://gitlab.com/deldotore-r/airflow-cambio-pipeline)
 **Focus:** *Data Engineering, Orchestration & Automated Publishing*
 
-Automated data pipeline monitoring the **EUR/BRL exchange rate**, covering business hours in **Portugal and Brazil**. Architecture focused on scalability, process decoupling, and fully automated publishing.
+Automated data pipeline monitoring the **EUR/BRL exchange rate**, covering business hours in **Portugal and Brazil**.
 
 **Architecture & Data Flow:**
 - **Ingestion (Extract):** Dedicated DAG collects data from **AwesomeAPI** every 5 minutes between **09:00 (Lisbon)** and **18:00 (Brasília / 21:00 Lisbon)**, persisting to CSV dataset.
@@ -49,70 +81,35 @@ Automated data pipeline monitoring the **EUR/BRL exchange rate**, covering busin
 - **Timezone Management:** Robust configuration using **Pendulum** to synchronize workflows between Lisbon and Brasília.
 - **Custom Health Checks:** Container health monitoring based on internal **Airflow SchedulerJob** processes.
 
-### 🌐 [Full CI/CD Pipeline: deldotore.com](https://github.com/deldotore-r/deldotore_site)
-**Focus:** *Continuous Deployment & Cloud Networking*
-
-Automated delivery pipeline for my personal portfolio.
-- Serverless architecture using **S3** and **CloudFront CDN**.
-- **GitHub Actions** pipeline with programmatic cache invalidation and secrets management.
-- Security implementation via restricted **IAM** policies (Least Privilege).
-- 31 commits demonstrating iterative evolution and continuous improvements.
-
-### 🏗️ [AWS Self-Healing Web Server (IaC)](https://github.com/deldotore-r/rotary-infra-aws)
-**Focus:** *Infrastructure as Code & Cloud Security*
-
-Automated AWS infrastructure provisioning for the Rotary Club da Guarda institutional website.
-- **Complete VPC** with public subnets, Internet Gateway, and Route Tables.
-- **Security Groups** with dynamic rules: SSH restricted to administrator's IP (obtained via `data "http"`).
-- **EC2 with user_data.sh:** Automated deployment via `git clone` and Nginx configuration.
-- **S3 Backend** with versioning, encryption, and native locking (no DynamoDB).
-- **Elastic IP** for fixed public address.
-- Clear demonstration of complete infrastructure bootstrapping.
-
 ### 🐳 [Kubernetes Local Automation with Kind](https://github.com/deldotore-r/kubernetes_01)
 **Focus:** *Container Orchestration & Automation*
 
-Microservices orchestration in local Kubernetes environment using **Kind** and complete automation via **Bash Scripts**.
-- **"One-Command-Setup":** Bash script prepares cluster, manages permissions, and deployments.
-- **High Availability:** 2 Nginx replicas with `limits` and `requests` configuration.
+Local Kubernetes environment using **Kind**, with complete automation via **Bash scripts**.
+- **"One-Command-Setup":** Bash script prepares the cluster, manages permissions and deploys the application.
+- **Resource management:** 2 Nginx replicas with `limits` and `requests`.
 - **Service Discovery:** Exposure via Service (ClusterIP) with Port-Forward.
-- Clear layer separation (k8s vs scripts) and cleanup script.
+- Clear layer separation (k8s vs scripts) and a cleanup script.
 
-### 🔧 [AWS Basic Infrastructure with Terraform](https://github.com/deldotore-r/aws-basic-infra-terraform)
-**Focus:** *IaC Fundamentals & Best Practices*
+### 🌐 [Full CI/CD Pipeline: deldotore.com](https://github.com/deldotore-r/deldotore_site)
+**Focus:** *Continuous Deployment*
 
-Basic AWS infrastructure for learning, with complete visual documentation.
-- Provisioning of **EC2, Security Groups, and S3**.
-- Parameterized variables via `terraform.tfvars`.
-- Screenshots of complete cycle: `init`, `validate`, `plan`, `apply`, `destroy`.
-- Visual confirmation in AWS Console before and after destroy.
+Automated delivery pipeline for my personal website.
+- Static site on **S3** behind **CloudFront**.
+- **GitHub Actions** pipeline with programmatic cache invalidation and secrets management.
+- Restricted **IAM** policies (least privilege).
 
-### 🔄 [GitLab CI/CD – Static Site Deployment](https://github.com/deldotore-r/gitlab)
-**Focus:** *CI/CD Pipeline & GitLab Automation*
-
-GitLab CI/CD pipeline demonstration for automated static site build and deployment.
-- **2-stage Pipeline:** Build (validation and artifacts) and Deploy (main branch only).
-- **Docker** for process containerization.
-- Focus on versioning best practices and automated processes.
-
-### 💾 [Smart Backup for WSL/Linux](https://github.com/deldotore-r/smart-backup-wsl)
-**Focus:** *Linux Automation & Efficiency*
-
-Shell Script solution for backup automation in development environments.
-- Intelligent exclusion logic (ignores `node_modules`, `.terraform`, etc.) for storage optimization.
-- Implementation of controlled retention and execution logs.
-- Backup volume reduction over 90% in local labs.
-- Compatible with `cron` for periodic executions.
+### Other repositories
+- [AWS Basic Infrastructure with Terraform](https://github.com/deldotore-r/aws-basic-infra-terraform): EC2, Security Groups and S3 through the full `init` to `destroy` cycle.
+- [Smart Backup for WSL/Linux](https://github.com/deldotore-r/smart-backup-wsl): shell-script backups with exclusion rules, retention and logs, compatible with `cron`.
 
 ---
 
 ## 📚 Roadmap & Active Studies (2026)
 
-* **Containers & Orchestration:** Deep dive into Kubernetes (K8s) and Helm.
-* **Observability:** Monitoring with Prometheus and Grafana.
-* **Data Engineering:** Expansion of Airflow pipelines with database integration.
-* **Certification:** Preparing for AWS Solutions Architect Associate.
-* **DevSecOps:** Integration of security practices in CI/CD pipelines.
+* **Kubernetes:** Preparing for the Certified Kubernetes Administrator (CKA) exam.
+* **Apache Iceberg:** Internals and concurrency model.
+* **dbt:** Fundamentals, toward analytics engineering.
+* **Next:** Spark performance tuning and AWS Certified Data Engineer – Associate.
 
 ---
 
